@@ -1,0 +1,12 @@
+# secrets
+*.key
+.env
+
+# data (large, regenerable)
+**/data/
+*.parquet
+
+# os / editor
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
