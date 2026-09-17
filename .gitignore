@@ -3,10 +3,13 @@
 .env
 
 # data (large, regenerable)
-**/data/
+**/data/*.log
 *.parquet
 
 # os / editor
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
+
+# raw 112 MB file exceeds GitHub 100 MB limit; tracked as .csv.gz instead
+Soph Pitch/data/usdtwd_1m.csv
