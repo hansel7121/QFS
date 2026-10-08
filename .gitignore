@@ -21,3 +21,6 @@ Soph Pitch/data/usdtwd_1m.csv
 Taiwan Pitch/data/prices.csv
 Taiwan Pitch/data/margin.csv
 Taiwan Pitch/data/stock_futures.csv
+
+# MOPS raw scrape caches (regenerable via collect_mops_*.py)
+Taiwan Pitch/data/mops_*_cache/
