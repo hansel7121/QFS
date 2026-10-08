@@ -13,3 +13,11 @@ __pycache__/
 
 # raw 112 MB file exceeds GitHub 100 MB limit; tracked as .csv.gz instead
 Soph Pitch/data/usdtwd_1m.csv
+
+# more secrets
+*.token
+
+# Taiwan Pitch raw panels exceed GitHub 100 MB limit (regenerable via collect_*.py)
+Taiwan Pitch/data/prices.csv
+Taiwan Pitch/data/margin.csv
+Taiwan Pitch/data/stock_futures.csv

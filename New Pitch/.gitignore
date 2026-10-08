@@ -1,0 +1,13 @@
+# secrets
+data/finmind.token
+*.token
+
+# pulled panels (large, regenerable via collect_panel.py)
+data/prices.csv
+data/inst_flows.csv
+data/shareholding.csv
+data/_progress.json
+data/_candidates.csv
+
+__pycache__/
+.ipynb_checkpoints/
