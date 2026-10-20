@@ -1,0 +1,466 @@
+etf,series_id,cik,entity,name,lev,under
+AIRD,S000081167,1689873,GraniteShares ETF Trust,GraniteShares 2x Short AAL Daily ETF,-2.0,AAL
+LAS,S000081150,1689873,GraniteShares ETF Trust,GraniteShares 1x Short AAL Daily ETF,-1.0,AAL
+AALG,S000091218,1976322,Themes ETF Trust,Leverage Shares 2X Long AAL Daily ETF,2.0,AAL
+AIRL,S000081158,1689873,GraniteShares ETF Trust,GraniteShares 2x Long AAL Daily ETF,2.0,AAL
+AAOX,S000100913,1587982,Investment Managers Series Trust II,Tradr 2X Long AAOI Daily ETF,2.0,AAOI
+APII,S000081148,1689873,GraniteShares ETF Trust,GraniteShares 2x Short AAPL Daily ETF,-2.0,AAPL
+AAPD,S000076244,1424958,Direxion Shares ETF Trust,Direxion Daily AAPL Bear 1X ETF,-1.0,AAPL
+PHS,S000081151,1689873,GraniteShares ETF Trust,GraniteShares 1x Short AAPL Daily ETF,-1.0,AAPL
+AAPB,S000076355,1689873,GraniteShares ETF Trust,GraniteShares 2x Long AAPL Daily ETF,2.0,AAPL
+AAPU,S000076233,1424958,Direxion Shares ETF Trust,Direxion Daily AAPL Bull 2X ETF,2.0,AAPL
+ABTL,S000102150,1924868,Tidal Trust II,Defiance Daily Target 2X Long ABTC ETF,2.0,ABTC
+ACHU,S000093872,1771146,ETF Opportunities Trust,T-REX 2X LONG ACHR DAILY TARGET ETF,2.0,ACHR
+ARCX,S000091891,1587982,Investment Managers Series Trust II,Tradr 2X Long ACHR Daily ETF,2.0,ACHR
+ADS,S000088296,1689873,GraniteShares ETF Trust,GraniteShares 2x Short ADBE Daily ETF,-2.0,ADBE
+ADBG,S000091233,1976322,Themes ETF Trust,Leverage Shares 2X Long ADBE Daily ETF,2.0,ADBE
+ADBU,S000094236,1424958,Direxion Shares ETF Trust,Direxion Daily ADBE Bull 2X ETF,2.0,ADBE
+ADL,S000088313,1689873,GraniteShares ETF Trust,GraniteShares 2x Long ADBE Daily ETF,2.0,ADBE
+AFRU,S000093883,1771146,ETF Opportunities Trust,T-REX 2X LONG AFRM DAILY TARGET ETF,2.0,AFRM
+ALAQ,S000100827,1587982,Investment Managers Series Trust II,Tradr 2X Short ALAB Daily ETF,-2.0,ALAB
+LABX,S000091893,1587982,Investment Managers Series Trust II,Tradr 2X Long ALAB Daily ETF,2.0,ALAB
+AMA,S000089799,1924868,Tidal Trust II,Defiance Daily Target 2X Long AMAT ETF,2.0,AMAT
+AML,S000090802,1689873,GraniteShares ETF Trust,GraniteShares 2x Long AMC Daily ETF,2.0,AMC
+AMDD,S000087467,1771146,ETF Opportunities Trust,T-REX 2X INVERSE AMD DAILY TARGET ETF,-2.0,AMD
+AMDS,S000081136,1689873,GraniteShares ETF Trust,GraniteShares 2x Short AMD Daily ETF,-2.0,AMD
+AMDD,S000088058,1424958,Direxion Shares ETF Trust,Direxion Daily AMD Bear 1X ETF,-1.0,AMD
+AMDG,S000086639,1976322,Themes ETF Trust,Leverage Shares 2X Long AMD Daily ETF,2.0,AMD
+AMDL,S000076350,1689873,GraniteShares ETF Trust,GraniteShares 2x Long AMD Daily ETF,2.0,AMD
+AMUU,S000088048,1424958,Direxion Shares ETF Trust,Direxion Daily AMD Bull 2X ETF,2.0,AMD
+AMTL,S000101614,1924868,Tidal Trust II,Defiance Daily Target 2X Long AMTM ETF,2.0,AMTM
+AMZO,S000100828,1587982,Investment Managers Series Trust II,Tradr 2X Short AMZN Daily ETF,-2.0,AMZN
+AMZD,S000076246,1424958,Direxion Shares ETF Trust,Direxion Daily AMZN Bear 1X ETF,-1.0,AMZN
+AMZU,S000076237,1424958,Direxion Shares ETF Trust,Direxion Daily AMZN Bull 2X ETF,2.0,AMZN
+AMZZ,S000076354,1689873,GraniteShares ETF Trust,GraniteShares 2x Long AMZN Daily ETF,2.0,AMZN
+APHU,S000098202,1771146,ETF Opportunities Trust,T-REX 2X LONG APH DAILY TARGET ETF,2.0,APH
+APLZ,S000100830,1587982,Investment Managers Series Trust II,Tradr 2X Short APLD Daily ETF,-2.0,APLD
+SAPL,S000099408,1924868,Tidal Trust II,Defiance Daily Target 2X Short APLD ETF,-2.0,APLD
+APLX,S000095051,1587982,Investment Managers Series Trust II,Tradr 2X Long APLD Daily ETF,2.0,APLD
+APPX,S000091894,1587982,Investment Managers Series Trust II,Tradr 2X Long APP Daily ETF,2.0,APP
+ARCU,S000100054,1771146,ETF Opportunities Trust,T-REX 2X LONG AREC DAILY TARGET ETF,2.0,AREC
+SARM,S000099415,1924868,Tidal Trust II,Defiance Daily Target 2X Short ARM ETF,-2.0,ARM
+ARMG,S000086640,1976322,Themes ETF Trust,Leverage Shares 2X Long ARM Daily ETF,2.0,ARM
+ARMU,S000087463,1771146,ETF Opportunities Trust,T-REX 2X LONG ARM DAILY TARGET ETF,2.0,ARM
+ARQX,S000100573,1587982,Investment Managers Series Trust II,Tradr 2X Long ARQQ Daily ETF,2.0,ARQQ
+ASMG,S000086641,1976322,Themes ETF Trust,Leverage Shares 2X Long ASML Daily ETF,2.0,ASML
+ASMU,S000092925,1424958,Direxion Shares ETF Trust,Direxion Daily ASML Bull 2X ETF,2.0,ASML
+KASM,S000091099,1547576,Krane Shares Trust,KraneShares 2x Long ASML Daily ETF,2.0,ASML
+ASTU,S000096439,1771146,ETF Opportunities Trust,T-REX 2X Long ASTS Daily Target ETF,2.0,ASTS
+ASTX,S000093731,1587982,Investment Managers Series Trust II,Tradr 2X Long ASTS Daily ETF,2.0,ASTS
+ASTY,S000103136,1924868,Tidal Trust II,Defiance Daily Target 2X Long ASTS ETF,2.0,ASTS
+AURL,S000093890,1771146,ETF Opportunities Trust,T-REX 2X LONG AUR DAILY TARGET ETF,2.0,AUR
+AVUP,S000093891,1771146,ETF Opportunities Trust,T-REX 2X LONG AVAV DAILY TARGET ETF,2.0,AVAV
+AVGD,S000087484,1771146,ETF Opportunities Trust,T-REX 2X INVERSE AVGO DAILY TARGET ETF,-2.0,AVGO
+AVGS,S000088298,1689873,GraniteShares ETF Trust,GraniteShares 2x Short AVGO Daily ETF,-2.0,AVGO
+AVS,S000088060,1424958,Direxion Shares ETF Trust,Direxion Daily AVGO Bear 1X ETF,-1.0,AVGO
+AVGG,S000091235,1976322,Themes ETF Trust,Leverage Shares 2X Long AVGO Daily ETF,2.0,AVGO
+AVGU,S000088314,1689873,GraniteShares ETF Trust,GraniteShares 2x Long AVGO Daily ETF,2.0,AVGO
+AVGU,S000087464,1771146,ETF Opportunities Trust,T-REX 2X LONG AVGO DAILY TARGET ETF,2.0,AVGO
+AVGX,S000085139,1924868,Tidal Trust II,Defiance Daily Target 2X Long AVGO ETF,2.0,AVGO
+AVL,S000088059,1424958,Direxion Shares ETF Trust,Direxion Daily AVGO Bull 2X ETF,2.0,AVGO
+AXUP,S000093892,1771146,ETF Opportunities Trust,T-REX 2X LONG AXON DAILY TARGET ETF,2.0,AXON
+BU,S000089802,1924868,Tidal Trust II,Defiance Daily Target 2X Long B ETF,2.0,B
+GLDU,S000093877,1771146,ETF Opportunities Trust,T-REX 2X LONG B DAILY TARGET ETF,2.0,B
+BAD,S000087485,1771146,ETF Opportunities Trust,T-REX 2X INVERSE BA DAILY TARGET ETF,-2.0,BA
+BOED,S000088062,1424958,Direxion Shares ETF Trust,Direxion Daily BA Bear 1X ETF,-1.0,BA
+BOEG,S000086642,1976322,Themes ETF Trust,Leverage Shares 2X Long BA Daily ETF,2.0,BA
+BOEU,S000088061,1424958,Direxion Shares ETF Trust,Direxion Daily BA Bull 2X ETF,2.0,BA
+BABU,S000092939,1424958,Direxion Shares ETF Trust,Direxion Daily BABA Bull 2X ETF,2.0,BABA
+BABX,S000076352,1689873,GraniteShares ETF Trust,GraniteShares 2x Long BABA Daily ETF,2.0,BABA
+KBAB,S000089268,1547576,Krane Shares Trust,KraneShares 2x Long BABA Daily ETF,2.0,BABA
+BAIG,S000093823,1976322,Themes ETF Trust,Leverage Shares 2X Long BBAI Daily ETF,2.0,BBAI
+BBUP,S000093893,1771146,ETF Opportunities Trust,T-REX 2X LONG BBAI DAILY TARGET ETF,2.0,BBAI
+BES,S000099416,1924868,Tidal Trust II,Defiance Daily Target 2X Short BE ETF,-2.0,BE
+BEZ,S000100831,1587982,Investment Managers Series Trust II,Tradr 2X Short BE Daily ETF,-2.0,BE
+BEX,S000096127,1587982,Investment Managers Series Trust II,Tradr 2X Long BE Daily ETF,2.0,BE
+LBE,S000100079,1924868,Tidal Trust II,Defiance Daily Target 2X Long BE ETF,2.0,BE
+BETU,S000100584,1587982,Investment Managers Series Trust II,Tradr 2X Long BETR Daily ETF,2.0,BETR
+KBDU,S000089269,1547576,Krane Shares Trust,KraneShares 2x Long BIDU Daily ETF,2.0,BIDU
+LBII,S000100082,1924868,Tidal Trust II,Defiance Daily Target 2X Long BIIB ETF,2.0,BIIB
+BKKX,S000100588,1587982,Investment Managers Series Trust II,Tradr 2X Long BKKT Daily ETF,2.0,BKKT
+BKNU,S000093894,1771146,ETF Opportunities Trust,T-REX 2X LONG BKNG DAILY TARGET ETF,2.0,BKNG
+BLHU,S000096350,1771146,ETF Opportunities Trust,T-REX 2X LONG BLSH DAILY TARGET ETF,2.0,BLSH
+BLSG,S000096298,1976322,Themes ETF Trust,Leverage Shares 2X Long BLSH Daily ETF,2.0,BLSH
+BLSX,S000096129,1587982,Investment Managers Series Trust II,Tradr 2X Long BLSH Daily ETF,2.0,BLSH
+BMNG,S000096186,1976322,Themes ETF Trust,Leverage Shares 2X Long BMNR Daily ETF,2.0,BMNR
+BMNU,S000095473,1771146,ETF Opportunities Trust,T-REX 2X LONG BMNR DAILY TARGET ETF,2.0,BMNR
+BTBX,S000100924,1587982,Investment Managers Series Trust II,Tradr 2X Long BTBT Daily ETF,2.0,BTBT
+BTOO,S000096440,1771146,ETF Opportunities Trust,T-REX 2X Long BTBT Daily Target ETF,2.0,BTBT
+BTDX,S000100928,1587982,Investment Managers Series Trust II,Tradr 2X Long BTDR Daily ETF,2.0,BTDR
+BTQL,S000100083,1924868,Tidal Trust II,Defiance Daily Target 2X Long BTQ ETF,2.0,BTQ
+CBRZ,S000105240,1587982,Investment Managers Series Trust II,Tradr 2X Short CBRS Daily ETF,-2.0,CBRS
+CBRX,S000105239,1587982,Investment Managers Series Trust II,Tradr 2X Long CBRS Daily ETF,2.0,CBRS
+CCJX,S000100930,1587982,Investment Managers Series Trust II,Tradr 2X Long CCJ Daily ETF,2.0,CCJ
+CCLS,S000088299,1689873,GraniteShares ETF Trust,GraniteShares 2x Short CCL Daily ETF,-2.0,CCL
+CCLU,S000088315,1689873,GraniteShares ETF Trust,GraniteShares 2x Long CCL Daily ETF,2.0,CCL
+CDEX,S000100931,1587982,Investment Managers Series Trust II,Tradr 2X Long CDE Daily ETF,2.0,CDE
+CEGU,S000093895,1771146,ETF Opportunities Trust,T-REX 2X LONG CEG DAILY TARGET ETF,2.0,CEG
+CEGX,S000093733,1587982,Investment Managers Series Trust II,Tradr 2X Long CEG Daily ETF,2.0,CEG
+CELT,S000095065,1587982,Investment Managers Series Trust II,Tradr 2X Long CELH Daily ETF,2.0,CELH
+CIFU,S000096441,1771146,ETF Opportunities Trust,T-REX 2X Long CIFR Daily Target ETF,2.0,CIFR
+CLFX,S000100932,1587982,Investment Managers Series Trust II,Tradr 2X Long CLF Daily ETF,2.0,CLF
+CSEX,S000096130,1587982,Investment Managers Series Trust II,Tradr 2X Long CLS Daily ETF,2.0,CLS
+CLSS,S000099418,1924868,Tidal Trust II,Defiance Daily Target 2X Short CLSK ETF,-2.0,CLSK
+CLSZ,S000100810,1587982,Investment Managers Series Trust II,Tradr 2X Short CLSK Daily ETF,-2.0,CLSK
+CLSX,S000095066,1587982,Investment Managers Series Trust II,Tradr 2X Long CLSK Daily ETF,2.0,CLSK
+COHX,S000100933,1587982,Investment Managers Series Trust II,Tradr 2X Long COHR Daily ETF,2.0,COHR
+COID,S000087486,1771146,ETF Opportunities Trust,T-REX 2X INVERSE COIN DAILY TARGET ETF,-2.0,COIN
+CONI,S000081138,1689873,GraniteShares ETF Trust,GraniteShares 2x Short COIN Daily ETF,-2.0,COIN
+COIG,S000086643,1976322,Themes ETF Trust,Leverage Shares 2X Long COIN Daily ETF,2.0,COIN
+CONL,S000076356,1689873,GraniteShares ETF Trust,GraniteShares 2x Long COIN Daily ETF,2.0,COIN
+CONX,S000092873,1424958,Direxion Shares ETF Trust,Direxion Daily COIN Bull 2X ETF,2.0,COIN
+COIF,S000099665,1587982,Investment Managers Series Trust II,Tradr 3X Long COIN Daily ETF,3.0,COIN
+COZX,S000095067,1587982,Investment Managers Series Trust II,Tradr 2X Long CORZ Daily ETF,2.0,CORZ
+COTG,S000093824,1976322,Themes ETF Trust,Leverage Shares 2X Long COST Daily ETF,2.0,COST
+CRCD,S000095464,1771146,ETF Opportunities Trust,T-REX 2X INVERSE CRCL DAILY TARGET ETF,-2.0,CRCL
+CCUP,S000087460,1771146,ETF Opportunities Trust,T-REX 2X LONG CRCL DAILY TARGET ETF,2.0,CRCL
+CRCG,S000081035,1976322,Themes ETF Trust,Leverage Shares 2X Long CRCL Daily ETF,2.0,CRCL
+CRDZ,S000100811,1587982,Investment Managers Series Trust II,Tradr 2X Short CRDO Daily ETF,-2.0,CRDO
+CRDU,S000095068,1587982,Investment Managers Series Trust II,Tradr 2X Long CRDO Daily ETF,2.0,CRDO
+CRMG,S000091238,1976322,Themes ETF Trust,Leverage Shares 2X Long CRM Daily ETF,2.0,CRM
+CRMX,S000100590,1587982,Investment Managers Series Trust II,Tradr 2X Long CRML Daily ETF,2.0,CRML
+CRWQ,S000088300,1689873,GraniteShares ETF Trust,GraniteShares 2x Short CRWD Daily ETF,-2.0,CRWD
+CRWL,S000088316,1689873,GraniteShares ETF Trust,GraniteShares 2x Long CRWD Daily ETF,2.0,CRWD
+CORD,S000095471,1771146,ETF Opportunities Trust,T-REX 2X INVERSE CRWV DAILY TARGET ETF,-2.0,CRWV
+SCRW,S000099419,1924868,Tidal Trust II,Defiance Daily Target 2X Short CRWV ETF,-2.0,CRWV
+CRWG,S000081029,1976322,Themes ETF Trust,Leverage Shares 2X Long CRWV Daily ETF,2.0,CRWV
+CRWU,S000087465,1771146,ETF Opportunities Trust,T-REX 2X Long CRWV Daily Target ETF,2.0,CRWV
+CWVX,S000093735,1587982,Investment Managers Series Trust II,Tradr 2X Long CRWV Daily ETF,2.0,CRWV
+CRW,S000099242,1587982,Investment Managers Series Trust II,Tradr 3X Long CRWV Daily ETF,3.0,CRWV
+CSCS,S000090379,1424958,Direxion Shares ETF Trust,Direxion Daily CSCO Bear 1X ETF,-1.0,CSCO
+CSCL,S000090378,1424958,Direxion Shares ETF Trust,Direxion Daily CSCO Bull 2X ETF,2.0,CSCO
+CVNU,S000093896,1771146,ETF Opportunities Trust,T-REX 2X LONG CVNA DAILY TARGET ETF,2.0,CVNA
+CVNX,S000091049,1924868,Tidal Trust II,Defiance Daily Target 2X Long CVNA ETF,2.0,CVNA
+DASX,S000096131,1587982,Investment Managers Series Trust II,Tradr 2X Long DASH Daily ETF,2.0,DASH
+DOGD,S000093736,1587982,Investment Managers Series Trust II,Tradr 2X Long DDOG Daily ETF,2.0,DDOG
+DOGU,S000093873,1771146,ETF Opportunities Trust,T-REX 2X LONG DDOG DAILY TARGET ETF,2.0,DDOG
+DLLS,S000088301,1689873,GraniteShares ETF Trust,GraniteShares 2x Short DELL Daily ETF,-2.0,DELL
+DLLL,S000088317,1689873,GraniteShares ETF Trust,GraniteShares 2x Long DELL Daily ETF,2.0,DELL
+DHIX,S000095069,1587982,Investment Managers Series Trust II,Tradr 2X Long DHI Daily ETF,2.0,DHI
+DISL,S000076357,1689873,GraniteShares ETF Trust,GraniteShares 2x Long DIS Daily ETF,2.0,DIS
+DJTU,S000087468,1771146,ETF Opportunities Trust,T-REX 2X LONG DJT DAILY TARGET ETF,2.0,DJT
+DJTZ,S000091670,1924868,Tidal Trust II,Defiance Daily Target 2X Long DJT ETF,2.0,DJT
+DKNX,S000089800,1924868,Tidal Trust II,Defiance Daily Target 2X Long DKNG ETF,2.0,DKNG
+DKUP,S000087477,1771146,ETF Opportunities Trust,T-REX 2X Long DKNG Daily Target ETF,2.0,DKNG
+DNUP,S000093874,1771146,ETF Opportunities Trust,T-REX 2X LONG DNA DAILY TARGET ETF,2.0,DNA
+DULU,S000093875,1771146,ETF Opportunities Trust,T-REX 2X LONG DUOL DAILY TARGET ETF,2.0,DUOL
+ENPX,S000095070,1587982,Investment Managers Series Trust II,Tradr 2X Long ENPH Daily ETF,2.0,ENPH
+EOSU,S000097418,1771146,ETF Opportunities Trust,T-REX 2X LONG EOSE DAILY TARGET ETF,2.0,EOSE
+ETOU,S000095476,1771146,ETF Opportunities Trust,T-REX 2X LONG ETOR DAILY TARGET ETF,2.0,ETOR
+FRDD,S000092883,1424958,Direxion Shares ETF Trust,Direxion Daily F Bear 1X ETF,-1.0,F
+FRDL,S000076358,1689873,GraniteShares ETF Trust,GraniteShares 2x Long F Daily ETF,2.0,F
+FRDU,S000092882,1424958,Direxion Shares ETF Trust,Direxion Daily F Bull 2X ETF,2.0,F
+FIGQ,S000095962,1771146,ETF Opportunities Trust,T-REX 2X Inverse FIG Daily Target ETF,-2.0,FIG
+FIGG,S000084597,1976322,Themes ETF Trust,Leverage Shares 2X Long FIG Daily ETF,2.0,FIG
+FIGO,S000095872,1771146,ETF Opportunities Trust,T-REX 2X LONG FIG DAILY TARGET ETF,2.0,FIG
+FIGU,S000099667,1587982,Investment Managers Series Trust II,Tradr 3X Long FIG Daily ETF,3.0,FIG
+FGRU,S000097514,1771146,ETF Opportunities Trust,T-REX 2X LONG FIGR DAILY TARGET ETF,2.0,FIGR
+FLYQ,S000095963,1771146,ETF Opportunities Trust,T-REX 2X Inverse FLY Daily Target ETF,-2.0,FLY
+FLYZ,S000100812,1587982,Investment Managers Series Trust II,Tradr 2X Short FLY Daily ETF,-2.0,FLY
+FLIE,S000095964,1771146,ETF Opportunities Trust,T-REX 2X Long FLY Daily Target ETF,2.0,FLY
+FLYT,S000096133,1587982,Investment Managers Series Trust II,Tradr 2X Long FLY Daily ETF,2.0,FLY
+FRMX,S000100593,1587982,Investment Managers Series Trust II,Tradr 2X Long FRMI Daily ETF,2.0,FRMI
+FSLX,S000089801,1924868,Tidal Trust II,Defiance Daily Target 2X Long FSLR ETF,2.0,FSLR
+FUTG,S000093825,1976322,Themes ETF Trust,Leverage Shares 2X Long FUTU Daily ETF,2.0,FUTU
+FOGG,S000100538,1976322,Themes ETF Trust,Leverage Shares 2X Long FWDI Daily ETF,2.0,FWDI
+GCTL,S000102153,1924868,Tidal Trust II,Defiance Daily Target 2X Long GCT ETF,2.0,GCT
+GEVX,S000093737,1587982,Investment Managers Series Trust II,Tradr 2X Long GEV Daily ETF,2.0,GEV
+GLGG,S000081031,1976322,Themes ETF Trust,Leverage Shares 2X Long GLXY Daily ETF,2.0,GLXY
+GLXU,S000093876,1771146,ETF Opportunities Trust,T-REX 2X LONG GLXY DAILY TARGET ETF,2.0,GLXY
+GLXA,S000099245,1587982,Investment Managers Series Trust II,Tradr 3X Long GLXY Daily ETF,3.0,GLXY
+GMEU,S000087469,1771146,ETF Opportunities Trust,T-REX 2X LONG GME DAILY TARGET ETF,2.0,GME
+GML,S000090804,1689873,GraniteShares ETF Trust,GraniteShares 2x Long GME Daily ETF,2.0,GME
+GGLS,S000076247,1424958,Direxion Shares ETF Trust,Direxion Daily GOOGL Bear 1X ETF,-1.0,GOOGL
+GGLL,S000076239,1424958,Direxion Shares ETF Trust,Direxion Daily GOOGL Bull 2X ETF,2.0,GOOGL
+GOU,S000076353,1689873,GraniteShares ETF Trust,GraniteShares 2x Long GOOGL Daily ETF,2.0,GOOGL
+KGRB,S000091100,1547576,Krane Shares Trust,KraneShares 2x Long GRAB Daily ETF,2.0,GRAB
+HIMZ,S000091052,1924868,Tidal Trust II,Defiance Daily Target 2X Long HIMS ETF,2.0,HIMS
+HLXX,S000100914,1587982,Investment Managers Series Trust II,Tradr 2X Long HL Daily ETF,2.0,HL
+HODU,S000092884,1424958,Direxion Shares ETF Trust,Direxion Daily HOOD Bull 2X ETF,2.0,HOOD
+HOOG,S000091219,1976322,Themes ETF Trust,Leverage Shares 2X Long HOOD Daily ETF,2.0,HOOD
+HOOL,S000090907,1689873,GraniteShares ETF Trust,GraniteShares 2x Long HOOD Daily ETF,2.0,HOOD
+HOOX,S000091053,1924868,Tidal Trust II,Defiance Daily Target 2X Long HOOD ETF,2.0,HOOD
+ROBN,S000087470,1771146,ETF Opportunities Trust,T-REX 2X LONG HOOD DAILY TARGET ETF,2.0,HOOD
+HOOO,S000099669,1587982,Investment Managers Series Trust II,Tradr 3X Long HOOD Daily ETF,3.0,HOOD
+IBX,S000095053,1587982,Investment Managers Series Trust II,Tradr 2X Long IBM Daily ETF,2.0,IBM
+IMSX,S000100403,1587982,Investment Managers Series Trust II,Tradr 2X Long IMSR Daily ETF,2.0,IMSR
+INXX,S000100916,1587982,Investment Managers Series Trust II,Tradr 2X Long INDI Daily ETF,2.0,INDI
+INOX,S000100594,1587982,Investment Managers Series Trust II,Tradr 2X Long INOD Daily ETF,2.0,INOD
+INS,S000088302,1689873,GraniteShares ETF Trust,GraniteShares 2x Short INTC Daily ETF,-2.0,INTC
+INTW,S000088287,1689873,GraniteShares ETF Trust,GraniteShares 2x Long INTC Daily ETF,2.0,INTC
+LINT,S000092886,1424958,Direxion Shares ETF Trust,Direxion Daily INTC Bull 2X ETF,2.0,INTC
+IONT,S000099660,1587982,Investment Managers Series Trust II,Tradr 3X Short IONQ Daily ETF,-3.0,IONQ
+IONL,S000090911,1689873,GraniteShares ETF Trust,GraniteShares 2x Long IONQ Daily ETF,2.0,IONQ
+IONX,S000091054,1924868,Tidal Trust II,Defiance Daily Target 2X Long IONQ ETF,2.0,IONQ
+IONU,S000099247,1587982,Investment Managers Series Trust II,Tradr 3X Long IONQ Daily ETF,3.0,IONQ
+IRES,S000099420,1924868,Tidal Trust II,Defiance Daily Target 2X Short IREN ETF,-2.0,IREN
+IREZ,S000100813,1587982,Investment Managers Series Trust II,Tradr 2X Short IREN Daily ETF,-2.0,IREN
+IRE,S000095914,1924868,Tidal Trust II,Defiance Daily Target 2X Long IREN ETF,2.0,IREN
+IREX,S000096134,1587982,Investment Managers Series Trust II,Tradr 2X Long IREN Daily ETF,2.0,IREN
+IREE,S000099248,1587982,Investment Managers Series Trust II,Tradr 3X Long IREN Daily ETF,3.0,IREN
+JBLL,S000100085,1924868,Tidal Trust II,Defiance Daily Target 2X Long JBLU ETF,2.0,JBLU
+KJD,S000089270,1547576,Krane Shares Trust,KraneShares 2x Long JD Daily ETF,2.0,JD
+SJOB,S000099421,1924868,Tidal Trust II,Defiance Daily Target 2X Short JOBY ETF,-2.0,JOBY
+JOBX,S000095054,1587982,Investment Managers Series Trust II,Tradr 2X Long JOBY Daily ETF,2.0,JOBY
+JMS,S000081139,1689873,GraniteShares ETF Trust,GraniteShares 2x Short JPM Daily ETF,-2.0,JPM
+JMI,S000081154,1689873,GraniteShares ETF Trust,GraniteShares 1x Short JPM Daily ETF,-1.0,JPM
+JPL,S000081162,1689873,GraniteShares ETF Trust,GraniteShares 2x Long JPM Daily ETF,2.0,JPM
+JPX,S000091055,1924868,Tidal Trust II,Defiance Daily Target 2X Long JPM ETF,2.0,JPM
+KEEX,S000099441,1924868,Tidal Trust II,Defiance Daily Target 2x Long KEEL ETF,2.0,KEEL
+KTUP,S000093878,1771146,ETF Opportunities Trust,T-REX 2X LONG KTOS DAILY TARGET ETF,2.0,KTOS
+LACX,S000100577,1587982,Investment Managers Series Trust II,Tradr 2X Long LAC Daily ETF,2.0,LAC
+LCIZ,S000100815,1587982,Investment Managers Series Trust II,Tradr 2X Short LCID Daily ETF,-2.0,LCID
+LDD,S000081140,1689873,GraniteShares ETF Trust,GraniteShares 2x Short LCID Daily ETF,-2.0,LCID
+LCI,S000081155,1689873,GraniteShares ETF Trust,GraniteShares 1x Short LCID Daily ETF,-1.0,LCID
+LCDL,S000081163,1689873,GraniteShares ETF Trust,GraniteShares 2x Long LCID Daily ETF,2.0,LCID
+LEUX,S000100917,1587982,Investment Managers Series Trust II,Tradr 2X Long LEU Daily ETF,2.0,LEU
+LITU,S000101635,1771146,ETF Opportunities Trust,T-REX 2X LONG LITE DAILY TARGET ETF,2.0,LITE
+LITX,S000100918,1587982,Investment Managers Series Trust II,Tradr 2X Long LITE Daily ETF,2.0,LITE
+LY,S000088303,1689873,GraniteShares ETF Trust,GraniteShares 2x Short LLY Daily ETF,-2.0,LLY
+ELIS,S000088049,1424958,Direxion Shares ETF Trust,Direxion Daily LLY Bear 1X ETF,-1.0,LLY
+ELIL,S000088065,1424958,Direxion Shares ETF Trust,Direxion Daily LLY Bull 2X ETF,2.0,LLY
+LLL,S000088288,1689873,GraniteShares ETF Trust,GraniteShares 2x Long LLY Daily ETF,2.0,LLY
+LLYX,S000085136,1924868,Tidal Trust II,Defiance Daily Target 2X Long LLY ETF,2.0,LLY
+LMTS,S000090381,1424958,Direxion Shares ETF Trust,Direxion Daily LMT Bear 1X ETF,-1.0,LMT
+LMTL,S000090380,1424958,Direxion Shares ETF Trust,Direxion Daily LMT Bull 2X ETF,2.0,LMT
+LRCU,S000093739,1587982,Investment Managers Series Trust II,Tradr 2X Long LRCX Daily ETF,2.0,LRCX
+LUML,S000102154,1924868,Tidal Trust II,Defiance Daily Target 2X Long LUMN ETF,2.0,LUMN
+MARD,S000087447,1771146,ETF Opportunities Trust,T-REX 2X INVERSE MARA DAILY TARGET ETF,-2.0,MARA
+MARU,S000087471,1771146,ETF Opportunities Trust,T-REX 2X LONG MARA DAILY TARGET ETF,2.0,MARA
+MRAL,S000090912,1689873,GraniteShares ETF Trust,GraniteShares 2x Long MARA Daily ETF,2.0,MARA
+MARX,S000099252,1587982,Investment Managers Series Trust II,Tradr 3X Long MARA Daily ETF,3.0,MARA
+MCHU,S000096117,1587982,Investment Managers Series Trust II,Tradr 2X Long MCHP Daily ETF,2.0,MCHP
+MDBX,S000091895,1587982,Investment Managers Series Trust II,Tradr 2X Long MDB Daily ETF,2.0,MDB
+MDLL,S000102155,1924868,Tidal Trust II,Defiance Daily Target 2X Long MDLN ETF,2.0,MDLN
+KMLI,S000091101,1547576,Krane Shares Trust,KraneShares 2x Long MELI Daily ETF,2.0,MELI
+FBSS,S000081141,1689873,GraniteShares ETF Trust,GraniteShares 2x Short META Daily ETF,-2.0,META
+METD,S000076230,1424958,Direxion Shares ETF Trust,Direxion Daily META Bear 1X ETF,-1.0,META
+MTI,S000081156,1689873,GraniteShares ETF Trust,GraniteShares 1x Short META Daily ETF,-1.0,META
+FBL,S000076340,1689873,GraniteShares ETF Trust,GraniteShares 2x Long META Daily ETF,2.0,META
+METU,S000085276,1424958,Direxion Shares ETF Trust,Direxion Daily META Bull 2X ETF,2.0,META
+MPG,S000096190,1976322,Themes ETF Trust,Leverage Shares 2X Long MP Daily ETF,2.0,MP
+MPL,S000095915,1924868,Tidal Trust II,Defiance Daily Target 2X Long MP ETF,2.0,MP
+MRVU,S000094247,1424958,Direxion Shares ETF Trust,Direxion Daily MRVL Bull 2X ETF,2.0,MRVL
+MRVX,S000091056,1924868,Tidal Trust II,Defiance Daily Target 2X Long MRVL ETF,2.0,MRVL
+MVLL,S000090913,1689873,GraniteShares ETF Trust,GraniteShares 2x Long MRVL Daily ETF,2.0,MRVL
+MSFD,S000076245,1424958,Direxion Shares ETF Trust,Direxion Daily MSFT Bear 1X ETF,-1.0,MSFT
+MSFL,S000076341,1689873,GraniteShares ETF Trust,GraniteShares 2x Long MSFT Daily ETF,2.0,MSFT
+MSFU,S000076235,1424958,Direxion Shares ETF Trust,Direxion Daily MSFT Bull 2X ETF,2.0,MSFT
+MSDD,S000090910,1689873,GraniteShares ETF Trust,GraniteShares 2x Short MSTR Daily ETF,-2.0,MSTR
+MSTZ,S000087771,1771146,ETF Opportunities Trust,T-REX 2X INVERSE MSTR DAILY TARGET ETF,-2.0,MSTR
+SMST,S000085368,1924868,Tidal Trust II,Defiance Daily Target 2X Short MSTR ETF,-2.0,MSTR
+MSTP,S000090805,1689873,GraniteShares ETF Trust,GraniteShares 2x Long MSTR Daily ETF,2.0,MSTR
+MSTU,S000087772,1771146,ETF Opportunities Trust,T-REX 2X LONG MSTR DAILY TARGET ETF,2.0,MSTR
+MSTX,S000085137,1924868,Tidal Trust II,Defiance Daily Target 2X Long MSTR ETF,2.0,MSTR
+MUS,S000088304,1689873,GraniteShares ETF Trust,GraniteShares 2x Short MU Daily ETF,-2.0,MU
+MUD,S000088051,1424958,Direxion Shares ETF Trust,Direxion Daily MU Bear 1X ETF,-1.0,MU
+MULL,S000088289,1689873,GraniteShares ETF Trust,GraniteShares 2x Long MU Daily ETF,2.0,MU
+MUU,S000088050,1424958,Direxion Shares ETF Trust,Direxion Daily MU Bull 2X ETF,2.0,MU
+NBIZ,S000100816,1587982,Investment Managers Series Trust II,Tradr 2X Short NBIS Daily ETF,-2.0,NBIS
+SNBI,S000099422,1924868,Tidal Trust II,Defiance Daily Target 2X Short NBIS ETF,-2.0,NBIS
+NBIG,S000096191,1976322,Themes ETF Trust,Leverage Shares 2X Long NBIS Daily ETF,2.0,NBIS
+NEBX,S000095056,1587982,Investment Managers Series Trust II,Tradr 2X Long NBIS Daily ETF,2.0,NBIS
+NBXX,S000099254,1587982,Investment Managers Series Trust II,Tradr 3X Long NBIS Daily ETF,3.0,NBIS
+NETX,S000093740,1587982,Investment Managers Series Trust II,Tradr 2X Long NET Daily ETF,2.0,NET
+NFLD,S000087448,1771146,ETF Opportunities Trust,T-REX 2X INVERSE NFLX DAILY TARGET ETF,-2.0,NFLX
+NFS,S000088305,1689873,GraniteShares ETF Trust,GraniteShares 2x Short NFLX Daily ETF,-2.0,NFLX
+NFXS,S000088053,1424958,Direxion Shares ETF Trust,Direxion Daily NFLX Bear 1X ETF,-1.0,NFLX
+NFLL,S000088290,1689873,GraniteShares ETF Trust,GraniteShares 2x Long NFLX Daily ETF,2.0,NFLX
+NFLU,S000087472,1771146,ETF Opportunities Trust,T-REX 2X LONG NFLX DAILY TARGET ETF,2.0,NFLX
+NFXL,S000088052,1424958,Direxion Shares ETF Trust,Direxion Daily NFLX Bull 2X ETF,2.0,NFLX
+NIOL,S000076343,1689873,GraniteShares ETF Trust,GraniteShares 1.1x Long NIO Daily ETF,1.1,NIO
+NKLX,S000100404,1587982,Investment Managers Series Trust II,Tradr 2X Long NKLR Daily ETF,2.0,NKLR
+NNEX,S000096120,1587982,Investment Managers Series Trust II,Tradr 2X Long NNE Daily ETF,2.0,NNE
+LNOK,S000100086,1924868,Tidal Trust II,Defiance Daily Target 2X Long NOK ETF,2.0,NOK
+NOWL,S000090914,1689873,GraniteShares ETF Trust,GraniteShares 2x Long NOW Daily ETF,2.0,NOW
+NTSU,S000100578,1587982,Investment Managers Series Trust II,Tradr 2X Long NTSK Daily ETF,2.0,NTSK
+NUCX,S000100405,1587982,Investment Managers Series Trust II,Tradr 2X Long NUCL Daily ETF,2.0,NUCL
+NVD,S000081142,1689873,GraniteShares ETF Trust,GraniteShares 2x Short NVDA Daily ETF,-2.0,NVDA
+NVDS,S000076107,1587982,Investment Managers Series Trust II,Tradr 1.5X Short NVDA Daily ETF,-1.5,NVDA
+NDI,S000081159,1689873,GraniteShares ETF Trust,GraniteShares 1x Short NVDA Daily ETF,-1.0,NVDA
+NVDD,S000076248,1424958,Direxion Shares ETF Trust,Direxion Daily NVDA Bear 1X ETF,-1.0,NVDA
+NVDG,S000086646,1976322,Themes ETF Trust,Leverage Shares 2X Long NVDA Daily ETF,2.0,NVDA
+NVDL,S000076344,1689873,GraniteShares ETF Trust,GraniteShares 2x Long NVDA Daily ETF,2.0,NVDA
+NVDU,S000081684,1424958,Direxion Shares ETF Trust,Direxion Daily NVDA Bull 2X ETF,2.0,NVDA
+NVOD,S000088306,1689873,GraniteShares ETF Trust,GraniteShares 2x Short NVO Daily ETF,-2.0,NVO
+NVOX,S000085138,1924868,Tidal Trust II,Defiance Daily Target 2X Long NVO ETF,2.0,NVO
+NVU,S000088291,1689873,GraniteShares ETF Trust,GraniteShares 2x Long NVO Daily ETF,2.0,NVO
+SNVT,S000099409,1924868,Tidal Trust II,Defiance Daily Target 2X Short NVTS ETF,-2.0,NVTS
+NVTX,S000095057,1587982,Investment Managers Series Trust II,Tradr 2X Long NVTS Daily ETF,2.0,NVTS
+NXPG,S000104258,1976322,Themes ETF Trust,Leverage Shares 2X Long NXPI Daily ETF,2.0,NXPI
+NXPX,S000096121,1587982,Investment Managers Series Trust II,Tradr 2X Long NXPI Daily ETF,2.0,NXPI
+OKLS,S000096884,1924868,Tidal Trust II,Defiance Daily Target 2X Short OKLO ETF,-2.0,OKLO
+OKUP,S000093879,1771146,ETF Opportunities Trust,T-REX 2X LONG OKLO DAILY TARGET ETF,2.0,OKLO
+ONX,S000096122,1587982,Investment Managers Series Trust II,Tradr 2X Long ON Daily ETF,2.0,ON
+ONDU,S000100579,1587982,Investment Managers Series Trust II,Tradr 2X Long ONDS Daily ETF,2.0,ONDS
+OPED,S000099410,1924868,Tidal Trust II,Defiance Daily Target 2X Short OPEN ETF,-2.0,OPEN
+OPEZ,S000100818,1587982,Investment Managers Series Trust II,Tradr 2X Short OPEN Daily ETF,-2.0,OPEN
+OPEX,S000096123,1587982,Investment Managers Series Trust II,Tradr 2X Long OPEN Daily ETF,2.0,OPEN
+SORC,S000099411,1924868,Tidal Trust II,Defiance Daily Target 2X Short ORCL ETF,-2.0,ORCL
+ORCS,S000094250,1424958,Direxion Shares ETF Trust,Direxion Daily ORCL Bear 1X ETF,-1.0,ORCL
+ORCU,S000094251,1424958,Direxion Shares ETF Trust,Direxion Daily ORCL Bull 2X ETF,2.0,ORCL
+ORCX,S000089803,1924868,Tidal Trust II,Defiance Daily Target 2X Long ORCL ETF,2.0,ORCL
+OSCU,S000095478,1771146,ETF Opportunities Trust,T-REX 2X LONG OSCR DAILY TARGET ETF,2.0,OSCR
+OSCX,S000095549,1924868,Tidal Trust II,Defiance Daily Target 2X Long OSCR ETF,2.0,OSCR
+OSSL,S000104016,1924868,Tidal Trust II,Defiance Daily Target 2X Long OSS ETF,2.0,OSS
+LOXY,S000100087,1924868,Tidal Trust II,Defiance Daily Target 2X Long OXY ETF,2.0,OXY
+PSD,S000105178,1689873,GraniteShares ETF Trust,GraniteShares 2x Short P Daily ETF,-2.0,P
+PUL,S000105153,1689873,GraniteShares ETF Trust,GraniteShares 2x Long P Daily ETF,2.0,P
+PAAU,S000101636,1771146,ETF Opportunities Trust,T-REX 2X LONG PAAS DAILY TARGET ETF,2.0,PAAS
+PAND,S000087449,1771146,ETF Opportunities Trust,T-REX 2X INVERSE PANW DAILY TARGET ETF,-2.0,PANW
+PAS,S000088307,1689873,GraniteShares ETF Trust,GraniteShares 2x Short PANW Daily ETF,-2.0,PANW
+PALD,S000090368,1424958,Direxion Shares ETF Trust,Direxion Daily PANW Bear 1X ETF,-1.0,PANW
+PALU,S000090382,1424958,Direxion Shares ETF Trust,Direxion Daily PANW Bull 2X ETF,2.0,PANW
+PANG,S000091225,1976322,Themes ETF Trust,Leverage Shares 2X Long PANW Daily ETF,2.0,PANW
+PANU,S000087473,1771146,ETF Opportunities Trust,T-REX 2X LONG PANW DAILY TARGET ETF,2.0,PANW
+PAU,S000088292,1689873,GraniteShares ETF Trust,GraniteShares 2x Long PANW Daily ETF,2.0,PANW
+PATX,S000100580,1587982,Investment Managers Series Trust II,Tradr 2X Long PATH Daily ETF,2.0,PATH
+KPDD,S000089271,1547576,Krane Shares Trust,KraneShares 2x Long PDD Daily ETF,2.0,PDD
+PDDL,S000090915,1689873,GraniteShares ETF Trust,GraniteShares 2x Long PDD Daily ETF,2.0,PDD
+PENX,S000091057,1924868,Tidal Trust II,Defiance Daily Target 2X Long PENN ETF,2.0,PENN
+PINL,S000102156,1924868,Tidal Trust II,Defiance Daily Target 2X Long PINS ETF,2.0,PINS
+PLTD,S000087450,1771146,ETF Opportunities Trust,T-REX 2X INVERSE PLTR DAILY TARGET ETF,-2.0,PLTR
+PLTD,S000088055,1424958,Direxion Shares ETF Trust,Direxion Daily PLTR Bear 1X ETF,-1.0,PLTR
+PLTG,S000091226,1976322,Themes ETF Trust,Leverage Shares 2X Long PLTR Daily ETF,2.0,PLTR
+PLTU,S000088054,1424958,Direxion Shares ETF Trust,Direxion Daily PLTR Bull 2X ETF,2.0,PLTR
+PTIR,S000076345,1689873,GraniteShares ETF Trust,GraniteShares 2x Long PLTR Daily ETF,2.0,PLTR
+PLUL,S000100550,1976322,Themes ETF Trust,Leverage Shares 2X Long PLUG Daily ETF,2.0,PLUG
+XPM,S000092418,1924868,Tidal Trust II,Defiance Daily Target 2X Long PM ETF,2.0,PM
+POEL,S000100998,1924868,Tidal Trust II,Defiance Daily Target 2X Long POET ETF,2.0,POET
+POEX,S000100919,1587982,Investment Managers Series Trust II,Tradr 2X Long POET Daily ETF,2.0,POET
+PONX,S000095059,1587982,Investment Managers Series Trust II,Tradr 2X Long PONY Daily ETF,2.0,PONY
+PYPG,S000091227,1976322,Themes ETF Trust,Leverage Shares 2X Long PYPL Daily ETF,2.0,PYPL
+PYPU,S000092897,1424958,Direxion Shares ETF Trust,Direxion Daily PYPL Bull 2X ETF,2.0,PYPL
+QBTZ,S000093245,1924868,Tidal Trust II,Defiance Daily Target 2X Short QBTS ETF,-2.0,QBTS
+QBTX,S000091896,1587982,Investment Managers Series Trust II,Tradr 2X Long QBTS Daily ETF,2.0,QBTS
+QCS,S000088309,1689873,GraniteShares ETF Trust,GraniteShares 2x Short QCOM Daily ETF,-2.0,QCOM
+QCMD,S000090370,1424958,Direxion Shares ETF Trust,Direxion Daily QCOM Bear 1X ETF,-1.0,QCOM
+QCML,S000088293,1689873,GraniteShares ETF Trust,GraniteShares 2x Long QCOM Daily ETF,2.0,QCOM
+QCMU,S000090369,1424958,Direxion Shares ETF Trust,Direxion Daily QCOM Bull 2X ETF,2.0,QCOM
+QMCX,S000100920,1587982,Investment Managers Series Trust II,Tradr 2X Long QMCO Daily ETF,2.0,QMCO
+QSZ,S000100819,1587982,Investment Managers Series Trust II,Tradr 2X Short QS Daily ETF,-2.0,QS
+QSU,S000095916,1924868,Tidal Trust II,Defiance Daily Target 2X Long QS ETF,2.0,QS
+QUBZ,S000100821,1587982,Investment Managers Series Trust II,Tradr 2X Short QUBT Daily ETF,-2.0,QUBT
+QBTU,S000093880,1771146,ETF Opportunities Trust,T-REX 2X LONG QUBT DAILY TARGET ETF,2.0,QUBT
+QUBX,S000091897,1587982,Investment Managers Series Trust II,Tradr 2X Long QUBT Daily ETF,2.0,QUBT
+QURX,S000100581,1587982,Investment Managers Series Trust II,Tradr 2X Long QURE Daily ETF,2.0,QURE
+RBLU,S000087475,1771146,ETF Opportunities Trust,T-REX 2X LONG RBLX DAILY TARGET ETF,2.0,RBLX
+RDDX,S000091671,1924868,Tidal Trust II,Defiance Daily Target 2X Long RDDT ETF,2.0,RDDT
+RDTL,S000090916,1689873,GraniteShares ETF Trust,GraniteShares 2x Long RDDT Daily ETF,2.0,RDDT
+RDDU,S000099263,1587982,Investment Managers Series Trust II,Tradr 3X Long RDDT Daily ETF,3.0,RDDT
+RGTU,S000091898,1587982,Investment Managers Series Trust II,Tradr 2X Long RGTI Daily ETF,2.0,RGTI
+RGTX,S000091058,1924868,Tidal Trust II,Defiance Daily Target 2X Long RGTI ETF,2.0,RGTI
+RIOL,S000090917,1689873,GraniteShares ETF Trust,GraniteShares 2x Long RIOT Daily ETF,2.0,RIOT
+RIOX,S000085120,1924868,Tidal Trust II,Defiance Daily Target 2X Long RIOT ETF,2.0,RIOT
+RIOU,S000099265,1587982,Investment Managers Series Trust II,Tradr 3X Long RIOT Daily ETF,3.0,RIOT
+RVD,S000081143,1689873,GraniteShares ETF Trust,GraniteShares 2x Short RIVN Daily ETF,-2.0,RIVN
+RI,S000081160,1689873,GraniteShares ETF Trust,GraniteShares 1x Short RIVN Daily ETF,-1.0,RIVN
+RVNL,S000081164,1689873,GraniteShares ETF Trust,GraniteShares 2x Long RIVN Daily ETF,2.0,RIVN
+RKLZ,S000092368,1924868,Tidal Trust II,Defiance Daily Target 2X Short RKLB ETF,-2.0,RKLB
+RKLX,S000091059,1924868,Tidal Trust II,Defiance Daily Target 2X Long RKLB ETF,2.0,RKLB
+RKLU,S000099266,1587982,Investment Managers Series Trust II,Tradr 3X Long RKLB Daily ETF,3.0,RKLB
+RKTL,S000099449,1924868,Tidal Trust II,Defiance Daily Target 2X Long RKT ETF,2.0,RKT
+LRMB,S000100088,1924868,Tidal Trust II,Defiance Daily Target 2X Long RMBS ETF,2.0,RMBS
+ROKL,S000102157,1924868,Tidal Trust II,Defiance Daily Target 2X Long ROKU ETF,2.0,ROKU
+RRXX,S000100921,1587982,Investment Managers Series Trust II,Tradr 2X Long RR Daily ETF,2.0,RR
+RTXG,S000091230,1976322,Themes ETF Trust,Leverage Shares 2X Long RTX Daily ETF,2.0,RTX
+RXUP,S000093881,1771146,ETF Opportunities Trust,T-REX 2X LONG RXRX DAILY TARGET ETF,2.0,RXRX
+RZLX,S000100582,1587982,Investment Managers Series Trust II,Tradr 2X Long RZLV Daily ETF,2.0,RZLV
+SBTU,S000095873,1771146,ETF Opportunities Trust,T-REX 2X LONG SBET DAILY TARGET ETF,2.0,SBET
+KSE,S000091102,1547576,Krane Shares Trust,KraneShares 2x Long SE Daily ETF,2.0,SE
+SEDX,S000100922,1587982,Investment Managers Series Trust II,Tradr 2X Long SEDG Daily ETF,2.0,SEDG
+SERX,S000100923,1587982,Investment Managers Series Trust II,Tradr 2X Long SERV Daily ETF,2.0,SERV
+SHXX,S000100583,1587982,Investment Managers Series Trust II,Tradr 2X Long SHLS Daily ETF,2.0,SHLS
+SHOD,S000087452,1771146,ETF Opportunities Trust,T-REX 2X INVERSE SHOP DAILY TARGET ETF,-2.0,SHOP
+SHPD,S000092902,1424958,Direxion Shares ETF Trust,Direxion Daily SHOP Bear 1X ETF,-1.0,SHOP
+SHOU,S000087476,1771146,ETF Opportunities Trust,T-REX 2X LONG SHOP DAILY TARGET ETF,2.0,SHOP
+SHPU,S000092901,1424958,Direxion Shares ETF Trust,Direxion Daily SHOP Bull 2X ETF,2.0,SHOP
+SMCZ,S000091503,1924868,Tidal Trust II,Defiance Daily Target 2X Short SMCI ETF,-2.0,SMCI
+SMS,S000088310,1689873,GraniteShares ETF Trust,GraniteShares 2x Short SMCI Daily ETF,-2.0,SMCI
+SMCL,S000088294,1689873,GraniteShares ETF Trust,GraniteShares 2x Long SMCI Daily ETF,2.0,SMCI
+SMCX,S000085140,1924868,Tidal Trust II,Defiance Daily Target 2X Long SMCI ETF,2.0,SMCI
+DSMR,S000099412,1924868,Tidal Trust II,Defiance Daily Target 2X Short SMR ETF,-2.0,SMR
+SMZ,S000100822,1587982,Investment Managers Series Trust II,Tradr 2X Short SMR Daily ETF,-2.0,SMR
+SMU,S000093732,1587982,Investment Managers Series Trust II,Tradr 2X Long SMR Daily ETF,2.0,SMR
+SMUP,S000087466,1771146,ETF Opportunities Trust,T-REX 2X Long SMR Daily Target ETF,2.0,SMR
+SNDU,S000101637,1771146,ETF Opportunities Trust,T-REX 2X LONG SNDK DAILY TARGET ETF,2.0,SNDK
+SNXX,S000100925,1587982,Investment Managers Series Trust II,Tradr 2X Long SNDK Daily ETF,2.0,SNDK
+SNDY,S000102159,1924868,Tidal Trust II,Defiance Daily Target 2X Long SNDL ETF,2.0,SNDL
+SNOD,S000087454,1771146,ETF Opportunities Trust,T-REX 2X INVERSE SNOW DAILY TARGET ETF,-2.0,SNOW
+SSNO,S000099413,1924868,Tidal Trust II,Defiance Daily Target 2X Short SNOW ETF,-2.0,SNOW
+SNOU,S000087479,1771146,ETF Opportunities Trust,T-REX 2X LONG SNOW DAILY TARGET ETF,2.0,SNOW
+SNWL,S000090918,1689873,GraniteShares ETF Trust,GraniteShares 2x Long SNOW Daily ETF,2.0,SNOW
+SNPX,S000096125,1587982,Investment Managers Series Trust II,Tradr 2X Long SNPS Daily ETF,2.0,SNPS
+SOFA,S000092904,1424958,Direxion Shares ETF Trust,Direxion Daily SOFI Bull 2X ETF,2.0,SOFI
+SOFX,S000089804,1924868,Tidal Trust II,Defiance Daily Target 2X Long SOFI ETF,2.0,SOFI
+SOUX,S000091050,1924868,Tidal Trust II,Defiance Daily Target 2X Long SOUN ETF,2.0,SOUN
+SPOU,S000095467,1771146,ETF Opportunities Trust,T-REX 2X LONG SPOT DAILY TARGET ETF,2.0,SPOT
+SRPU,S000096126,1587982,Investment Managers Series Trust II,Tradr 2X Long SRPT Daily ETF,2.0,SRPT
+SHUB,S000096445,1771146,ETF Opportunities Trust,T-REX 2X Long STUB Daily Target ETF,2.0,STUB
+TEMZ,S000100823,1587982,Investment Managers Series Trust II,Tradr 2X Short TEM Daily ETF,-2.0,TEM
+TEMM,S000093885,1771146,ETF Opportunities Trust,T-REX 2X LONG TEM DAILY TARGET ETF,2.0,TEM
+TEMT,S000091899,1587982,Investment Managers Series Trust II,Tradr 2X Long TEM Daily ETF,2.0,TEM
+TRL,S000102160,1924868,Tidal Trust II,Defiance Daily Target 2X Long TLRY ETF,2.0,TLRY
+TMQU,S000100048,1771146,ETF Opportunities Trust,T-REX 2X LONG TMQ DAILY TARGET ETF,2.0,TMQ
+TSLN,S000099277,1587982,Investment Managers Series Trust II,Tradr 3X Short TSLA Daily ETF,-3.0,TSLA
+TSDD,S000081144,1689873,GraniteShares ETF Trust,GraniteShares 2x Short TSLA Daily ETF,-2.0,TSLA
+TSLQ,S000076096,1587982,Investment Managers Series Trust II,Tradr 2X Short TSLA Daily ETF,-2.0,TSLA
+TSLS,S000071019,1424958,Direxion Shares ETF Trust,Direxion Daily TSLA Bear 1X ETF,-1.0,TSLA
+TSS,S000076339,1689873,GraniteShares ETF Trust,GraniteShares 1x Short TSLA Daily ETF,-1.0,TSLA
+TSL,S000076347,1689873,GraniteShares ETF Trust,GraniteShares 1.25x Long TSLA Daily ETF,1.25,TSLA
+TSLG,S000086635,1976322,Themes ETF Trust,Leverage Shares 2X Long TSLA Daily ETF,2.0,TSLA
+TSLL,S000072483,1424958,Direxion Shares ETF Trust,Direxion Daily TSLA Bull 2X ETF,2.0,TSLA
+TSLR,S000081146,1689873,GraniteShares ETF Trust,GraniteShares 2x Long TSLA Daily ETF,2.0,TSLA
+TSLU,S000099658,1587982,Investment Managers Series Trust II,Tradr 3X Long TSLA Daily ETF,3.0,TSLA
+STSM,S000096887,1924868,Tidal Trust II,Defiance Daily Target 2X Short TSM ETF,-2.0,TSM
+TSMD,S000087458,1771146,ETF Opportunities Trust,T-REX 2X INVERSE TSM DAILY TARGET ETF,-2.0,TSM
+TSMS,S000088311,1689873,GraniteShares ETF Trust,GraniteShares 2x Short TSM Daily ETF,-2.0,TSM
+TSMZ,S000088057,1424958,Direxion Shares ETF Trust,Direxion Daily TSM Bear 1X ETF,-1.0,TSM
+KTSM,S000089272,1547576,Krane Shares Trust,KraneShares 2x Long TSM Daily ETF,2.0,TSM
+TSMG,S000086636,1976322,Themes ETF Trust,Leverage Shares 2X Long TSM Daily ETF,2.0,TSM
+TSMU,S000088295,1689873,GraniteShares ETF Trust,GraniteShares 2x Long TSM Daily ETF,2.0,TSM
+TSMU,S000087482,1771146,ETF Opportunities Trust,T-REX 2X LONG TSM DAILY TARGET ETF,2.0,TSM
+TSMX,S000088056,1424958,Direxion Shares ETF Trust,Direxion Daily TSM Bull 2X ETF,2.0,TSM
+TTDU,S000093886,1771146,ETF Opportunities Trust,T-REX 2X LONG TTD DAILY TARGET ETF,2.0,TTD
+TXNU,S000094266,1424958,Direxion Shares ETF Trust,Direxion Daily TXN Bull 2X ETF,2.0,TXN
+UNX,S000095061,1587982,Investment Managers Series Trust II,Tradr 2X Long U Daily ETF,2.0,U
+UBRL,S000076351,1689873,GraniteShares ETF Trust,GraniteShares 2x Long UBER Daily ETF,2.0,UBER
+UNHG,S000085493,1976322,Themes ETF Trust,Leverage Shares 2X Long UNH Daily ETF,2.0,UNH
+UNHU,S000094271,1424958,Direxion Shares ETF Trust,Direxion Daily UNH Bull 2X ETF,2.0,UNH
+SUPS,S000099414,1924868,Tidal Trust II,Defiance Daily Target 2X Short UPST ETF,-2.0,UPST
+UPSZ,S000100824,1587982,Investment Managers Series Trust II,Tradr 2X Short UPST Daily ETF,-2.0,UPST
+UPSX,S000091892,1587982,Investment Managers Series Trust II,Tradr 2X Long UPST Daily ETF,2.0,UPST
+UPUP,S000093887,1771146,ETF Opportunities Trust,T-REX 2X LONG UPST DAILY TARGET ETF,2.0,UPST
+PXIU,S000093888,1771146,ETF Opportunities Trust,T-REX 2X LONG UPXI DAILY TARGET ETF,2.0,UPXI
+USAX,S000100586,1587982,Investment Managers Series Trust II,Tradr 2X Long USAR Daily ETF,2.0,USAR
+USXX,S000100407,1587982,Investment Managers Series Trust II,Tradr 2X Long USDE Daily ETF,2.0,USDE
+UUUX,S000100926,1587982,Investment Managers Series Trust II,Tradr 2X Long UUUU Daily ETF,2.0,UUUU
+VAVL,S000104917,1924868,Tidal Trust II,Defiance Daily Target 2X Long VAVX ETF,2.0,VAVX
+VELL,S000104018,1924868,Tidal Trust II,Defiance Daily Target 2X Long VELO ETF,2.0,VELO
+VOYX,S000095063,1587982,Investment Managers Series Trust II,Tradr 2X Long VOYG Daily ETF,2.0,VOYG
+VRTL,S000090909,1689873,GraniteShares ETF Trust,GraniteShares 2x Long VRT Daily ETF,2.0,VRT
+LVRT,S000100089,1924868,Tidal Trust II,Defiance Daily Target 2X Long VRTX ETF,2.0,VRTX
+VSTL,S000091051,1924868,Tidal Trust II,Defiance Daily Target 2X Long VST ETF,2.0,VST
+WBDL,S000102151,1924868,Tidal Trust II,Defiance Daily Target 2X Long WBD ETF,2.0,WBD
+WDCX,S000100587,1587982,Investment Managers Series Trust II,Tradr 2X Long WDC Daily ETF,2.0,WDC
+WGSU,S000093889,1771146,ETF Opportunities Trust,T-REX 2X LONG WGS DAILY TARGET ETF,2.0,WGS
+WINL,S000100080,1924868,Tidal Trust II,Defiance Daily Target 2X Long WING ETF,2.0,WING
+WULZ,S000100826,1587982,Investment Managers Series Trust II,Tradr 2X Short WULF Daily ETF,-2.0,WULF
+WULX,S000096128,1587982,Investment Managers Series Trust II,Tradr 2X Long WULF Daily ETF,2.0,WULF
+WYFL,S000103269,1924868,Tidal Trust II,Defiance Daily Target 2X Long WYFI ETF,2.0,WYFI
+WYFX,S000100927,1587982,Investment Managers Series Trust II,Tradr 2X Long WYFI Daily ETF,2.0,WYFI
+XNDX,S000100946,1587982,Investment Managers Series Trust II,Tradr 2X Long XNDU Daily ETF,2.0,XNDU
+XMII,S000081145,1689873,GraniteShares ETF Trust,GraniteShares 2x Short XOM Daily ETF,-2.0,XOM
+XMI,S000081161,1689873,GraniteShares ETF Trust,GraniteShares 1x Short XOM Daily ETF,-1.0,XOM
+XOMZ,S000090374,1424958,Direxion Shares ETF Trust,Direxion Daily XOM Bear 1X ETF,-1.0,XOM
+XML,S000081166,1689873,GraniteShares ETF Trust,GraniteShares 2x Long XOM Daily ETF,2.0,XOM
+XOMX,S000090373,1424958,Direxion Shares ETF Trust,Direxion Daily XOM Bull 2X ETF,2.0,XOM
+XRPK,S000091724,1771146,ETF Opportunities Trust,T-REX 2X Long XRP Daily Target ETF,2.0,XRP
+XXIU,S000087462,1771146,ETF Opportunities Trust,T-REX 2X Long XXI Daily Target ETF,2.0,XXI
+SQD,S000087455,1771146,ETF Opportunities Trust,T-REX 2X INVERSE XYZ DAILY TARGET ETF,-2.0,XYZ
+SQU,S000087480,1771146,ETF Opportunities Trust,T-REX 2X LONG XYZ DAILY TARGET ETF,2.0,XYZ
+XYZG,S000091231,1976322,Themes ETF Trust,Leverage Shares 2X Long XYZ Daily ETF,2.0,XYZ
+XYZL,S000090908,1689873,GraniteShares ETF Trust,GraniteShares 2x Long XYZ Daily ETF,2.0,XYZ
+ZETX,S000095541,1924868,Tidal Trust II,Defiance Daily Target 2X Long ZETA ETF,2.0,ZETA
+ZIML,S000100081,1924868,Tidal Trust II,Defiance Daily Target 2X Long ZIM ETF,2.0,ZIM
+ZSX,S000091900,1587982,Investment Managers Series Trust II,Tradr 2X Long ZS Daily ETF,2.0,ZS

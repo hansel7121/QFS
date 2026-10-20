@@ -1,0 +1,90 @@
+{
+ "table": [
+  {
+   "H": 5,
+   "signal": "z-score (as in writeup)",
+   "ic": -0.045058410055515606,
+   "t": -3.781055030694631,
+   "weeks": 359
+  },
+  {
+   "H": 5,
+   "signal": "z-score, past 20d return removed",
+   "ic": -0.032781254618295556,
+   "t": -2.926596613155525,
+   "weeks": 359
+  },
+  {
+   "H": 5,
+   "signal": "z-score, past 5/20/60d returns removed",
+   "ic": -0.02033769471275285,
+   "t": -1.773936204960723,
+   "weeks": 359
+  },
+  {
+   "H": 5,
+   "signal": "past 20d return vs peers",
+   "ic": -0.029102092871225553,
+   "t": -2.655903975426448,
+   "weeks": 398
+  },
+  {
+   "H": 20,
+   "signal": "z-score (as in writeup)",
+   "ic": -0.07255629880798613,
+   "t": -3.4425724010561356,
+   "weeks": 356
+  },
+  {
+   "H": 20,
+   "signal": "z-score, past 20d return removed",
+   "ic": -0.037187656339750734,
+   "t": -1.827269539009879,
+   "weeks": 356
+  },
+  {
+   "H": 20,
+   "signal": "z-score, past 5/20/60d returns removed",
+   "ic": -0.027788583026759493,
+   "t": -1.5035656928151842,
+   "weeks": 356
+  },
+  {
+   "H": 20,
+   "signal": "past 20d return vs peers",
+   "ic": -0.08285301981324898,
+   "t": -5.212489845302852,
+   "weeks": 395
+  },
+  {
+   "H": 60,
+   "signal": "z-score (as in writeup)",
+   "ic": -0.0816069324247956,
+   "t": -2.4835785625372204,
+   "weeks": 348
+  },
+  {
+   "H": 60,
+   "signal": "z-score, past 20d return removed",
+   "ic": -0.052910749544438966,
+   "t": -1.644801365897891,
+   "weeks": 348
+  },
+  {
+   "H": 60,
+   "signal": "z-score, past 5/20/60d returns removed",
+   "ic": -0.03903711242452766,
+   "t": -1.3914774538680366,
+   "weeks": 348
+  },
+  {
+   "H": 60,
+   "signal": "past 20d return vs peers",
+   "ic": -0.07086738276305266,
+   "t": -4.269894313439811,
+   "weeks": 387
+  }
+ ],
+ "r2_median": 0.2596401114010274,
+ "r2_mean": 0.2595765115952141
+}

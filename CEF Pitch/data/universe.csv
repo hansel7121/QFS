@@ -1,0 +1,353 @@
+ticker,name,category,nav_ticker
+IFN,"Aberdeen India Fund, Inc",Equity-Asia Equity,XIFNX
+JOF,Japan Smaller Cap Fund,Equity-Asia Equity,XXJOFXX
+KF,Korea Fund,Equity-Asia Equity,XKFDX
+IIF,Morgan Stanley India Investment,Equity-Asia Equity,XIIFX
+CAF,Morgan Stanley China A Share,Equity-Asia Equity,XCAFX
+TWN,Taiwan Fund,Equity-Asia Equity,XXTWNXX
+TDF,Templeton Dragon,Equity-Asia Equity,XTDFX
+IAE,Voya Asia Pacific High Div Eq Inc Fd,Equity-Asia Equity,XIAEX
+NFJ,AllianzGI Div Interest & Prem Common,Equity-Covered-Call Funds,XNFJX
+IGA,Voya Global Advantage and Premium Opp Fd,Equity-Covered-Call Funds,XIGAX
+IGD,Voya Global Equity Dividend&Prm Opp Fd,Equity-Covered-Call Funds,XIGDX
+MCN,XAI Madison Equity Premium Income Fund,Equity-Covered-Call Funds,XMCNX
+GNT,"GAMCO Natural Resources, Gold & Inc Tr",Equity-Covered-Call Funds,XGNTX
+QQQX,Nuveen NASDAQ 100 Dynamic Overwrite,Equity-Covered-Call Funds,XQQQX
+SPXX,Nuveen S&P 500 Dynamic Overwrite,Equity-Covered-Call Funds,XSSPX
+BDJ,BlackRock Enhanced Dividend Achievers,Equity-Covered-Call Funds,XBDJX
+BGY,BlackRock Enhanced Intl Div Trust,Equity-Covered-Call Funds,XBGYX
+BOE,BlackRock Enhanced Glbl Div Trust,Equity-Covered-Call Funds,XBOEX
+CII,BlackRock Enhanced Large Cap Core Fund,Equity-Covered-Call Funds,XCIIX
+STK,Columbia Seligman Premium Technology Gr,Equity-Covered-Call Funds,XSTKX
+EOI,Eaton Vance Enhanced Equity Income,Equity-Covered-Call Funds,XEOIX
+EOS,Eaton Vance Enhanced Equity Income II,Equity-Covered-Call Funds,XEOSX
+ETY,Eaton Vance Tax-Managed Divrs Equity Inc,Equity-Covered-Call Funds,XETYX
+ETB,Eaton Vance Tax-Managed Buy-Write Income,Equity-Covered-Call Funds,XETBX
+ETV,Eaton Vance Tax-Managed Buy-Write Opp,Equity-Covered-Call Funds,XETVX
+ETW,Eaton Vance Tx-Mgd Glbl Buy-Write Opp,Equity-Covered-Call Funds,XETWX
+EXG,Eaton Vance Tax-Mgd Glb Divrs Equity Inc,Equity-Covered-Call Funds,XEXGX
+ETJ,Eaton Vance Risk-Mgd Divers Eq Inc,Equity-Covered-Call Funds,XETJX
+FFA,First Trust Enhanced Equity Income,Equity-Covered-Call Funds,XFFAX
+CEE,The Central and Eastern Europe Fund,Equity-Emerging Market Equity,XCEEX
+AEF,abrdn Emerging Markets ex-China Fund,Equity-Emerging Market Equity,XAEFX
+MXE,Mexico Equity & Income,Equity-Emerging Market Equity,XMXEX
+MXF,Mexico Fund,Equity-Emerging Market Equity,XXMXFXX
+IHD,Voya Emerging Markets High Div Eq Fd,Equity-Emerging Market Equity,XIHDX
+EMF,Templeton Emerging Markets,Equity-Emerging Market Equity,XEMFX
+IDE,Voya Infrastructure Industrials&Matls Fd,Equity-Global Equity,XIDEX
+EOD,Allspring Global Dividend Opp Fd,Equity-Global Equity,XEODX
+LGI,Lazard Global Total Return and Income,Equity-Global Equity,XLGIX
+HEQ,John Hancock Diversified Income Fund,Equity-Global Equity,XHEQX
+GGZ,Gabelli Global Small & Mid Cap Value Tru,Equity-Global Equity,XGGZX
+RGT,"Royce Global Trust, Inc.",Equity-Global Equity,XRGTX
+AGD,abrdn Global Dynamic Dividend,Equity-Global Equity,XAGDX
+AOD,abrdn Total Dynamic Dividend,Equity-Global Equity,XAODX
+GLQ,Clough Global Equity,Equity-Global Equity,XGLQX
+CPZ,Calamos L/S Equity & Dynamic Inc Trust,Equity-Global Equity,XCPZX
+EEA,European Equity Fund,Equity-Global Equity,XEEAX
+ETG,Eaton Vance Tax Adv Global Dividend Inc,Equity-Global Equity,XETGX
+RVI,Robinhood Ventures Fund I,Equity-Global Equity,XRVIX
+TYG,Tortoise Energy Infrastructure Corp.,Equity-MLP,XTYGX
+EMO,ClearBridge Energy Midstream Opportunity,Equity-MLP,XEMOX
+SRV,NXG Cushing Midstream Energy Fund,Equity-MLP,XSRVX
+KYN,Kayne Anderson Energy Infrastructure,Equity-MLP,XKYNX
+NML,NB Energy Infra and Income Fund Inc,Equity-MLP,XNMLX
+NRO,Neuberger Real Estate Securities Income,Equity-Real Estate,XNROX
+PGZ,Principal Real Estate Income Fund,Equity-Real Estate,XPGZX
+JRS,Nuveen Real Estate Income,Equity-Real Estate,XJRSX
+RLTY,Cohen & Steers Real Estate Opp & Inc Fd,Equity-Real Estate,XRLTX
+RQI,Cohen & Steers Qual Inc Realty,Equity-Real Estate,XRQIX
+RFI,Cohen & Steers Total Return,Equity-Real Estate,XRFIX
+RNP,Cohen & Steers REIT & Preferred Inc Fd,Equity-Real Estate,XRNPX
+AWP,abrdn Global Premier Properties,Equity-Real Estate,XAWPX
+BPRE,Bluerock Private Real Estate Fund,Equity-Real Estate,XBPREX
+IGR,CBRE Global Real Estate Income,Equity-Real Estate,XIGRX
+BST,BlackRock Science and Technology Trust,Equity-Sector Equity,XBSTX
+BMEZ,BlackRock Health Sciences Term Trust,Equity-Sector Equity,XBMZX
+BSTZ,BlackRock Science and Technology Term,Equity-Sector Equity,XBSZX
+BCX,BlackRock Resources&Commodities Strategy,Equity-Sector Equity,XBCRX
+BGR,BlackRock Energy and Resources,Equity-Sector Equity,XBGRX
+BME,BlackRock Health Sciences,Equity-Sector Equity,XBMEX
+PEO,Adams Natural Resources Fund,Equity-Sector Equity,XPEOX
+BUI,"BlackRock Util, Infra & Power Opp",Equity-Sector Equity,XBUIX
+UTF,Cohen & Steers Infrastructure,Equity-Sector Equity,XUTFX
+NXG,NXG NextGen Infrastructure Inc,Equity-Sector Equity,XNXGX
+DNP,DNP Select Income,Equity-Sector Equity,XDNPX
+DPG,Duff & Phelps Utility and Infra Fund Inc,Equity-Sector Equity,XDPGX
+UTG,Reaves Utility Income,Equity-Sector Equity,XUTGX
+MEGI,NYLIM CBRE Glb Infra Megatrends Term Fd,Equity-Sector Equity,XMEGI
+GGN,GAMCO Global Gold Natural Resources&Inc,Equity-Sector Equity,XGGNX
+GGT,Gabelli Multimedia,Equity-Sector Equity,XGGTX
+GUT,Gabelli Utility Trust,Equity-Sector Equity,XGUTX
+GLU,Gabelli Global Utility & Income,Equity-Sector Equity,XGLUX
+GRX,Gabelli Healthcare & Wellness Trust,Equity-Sector Equity,XXGRX
+BTO,JHancock Financial Opportunities,Equity-Sector Equity,XBTOX
+AIO,Virtus AI & Tech Opp Fund,Equity-Sector Equity,XAIOX
+THQ,abrdn Healthcare Opportunities Fund,Equity-Sector Equity,XTHQX
+HQH,abrdn Healthcare Investors,Equity-Sector Equity,XHQHX
+HQL,abrdn Life Sciences Investors,Equity-Sector Equity,XHQLX
+THW,abrdn World Healthcare Fund,Equity-Sector Equity,XTHWX
+ASA,ASA Gold and Precious Metals Limited,Equity-Sector Equity,XASAX
+BANX,ArrowMark Financial Corp,Equity-Sector Equity,XBANX
+PWRL,Powerlaw Corp.,Equity-Sector Equity,XPWRX
+DXYZ,Destiny Tech100 Inc,Equity-Sector Equity,DXYZ
+VCX,Fundrise Innovation Common Share,Equity-Sector Equity,XVCX
+IAF,abrdn Australia Equity Fund Inc,Equity-Single-Country Equity,XIAFX
+GF,New Germany,Equity-Single-Country Equity,XGFNX
+SWZ,Total Return Securities Fund,Equity-Single-Country Equity,XSWZX
+FUND,Sprott Focus Trust,Equity-U.S. Equity,XFUNX
+NBXG,Neuberger Brmn Nxt Gnrtn Cnnctvty,Equity-U.S. Equity,XNBGX
+GDV,Gabelli Dividend & Income,Equity-U.S. Equity,XGDVX
+ASG,Liberty All-Star Growth,Equity-U.S. Equity,XASGX
+USA,Liberty All-Star Equity,Equity-U.S. Equity,XUSAX
+GAM,General American Investors,Equity-U.S. Equity,XGAMX
+RVT,Royce Small-Cap Trust,Equity-U.S. Equity,XRVTX
+RMT,Royce Micro-Cap Trust,Equity-U.S. Equity,XOTCX
+JCE,Nuveen Core Equity Alpha,Equity-U.S. Equity,XJCEX
+ADX,Adams Diversified Equity Fund,Equity-U.S. Equity,XADEX
+BTX,BlackRock Tech and Private Equity Term,Equity-U.S. Equity,XBTPX
+STEW,SRH Total Return Fund,Equity-U.S. Equity,XSTEX
+GAB,Gabelli Equity,Equity-U.S. Equity,XGABX
+PSUS,"Pershing Square USA, Ltd",Equity-U.S. Equity,PSUSX
+GRF,Eagle Capital Growth,Equity-U.S. Equity,XGRFX
+CLM,Cornerstone Strategic Investment Fund,Equity-U.S. Equity,XCLMX
+CRF,Cornerstone Total Return Fund,Equity-U.S. Equity,XCRFX
+CET,Central Securities Corporation,Equity-U.S. Equity,XCETX
+SPE,Special Opportunities,Equity-U.S. Equity,XSPEX
+HERZ,Herzfeld Credit Income Fund,Equity-U.S. Equity,HERZ
+CFND,C1 Fund Inc.,Equity-U.S. Equity,XCFNDX
+CHI,Calamos Convertible Opp Inc,Fixed Income - Taxable-Convertibles,XCHIX
+AVK,Advent Convertible & Income Fund,Fixed Income - Taxable-Convertibles,XAVKX
+BCV,Bancroft Fund,Fixed Income - Taxable-Convertibles,XBCVX
+CHY,Calamos Convertible & High Income Fund,Fixed Income - Taxable-Convertibles,XCHYX
+CCD,Calamos Dynamic Convertible and Income,Fixed Income - Taxable-Convertibles,XCCDX
+ECF,Ellsworth Growth and Income Fund,Fixed Income - Taxable-Convertibles,XECFX
+NCZ,Virtus Convertible & Income Fund II,Fixed Income - Taxable-Convertibles,XNCZX
+NCV,Virtus Convertible & Income Fund,Fixed Income - Taxable-Convertibles,XNCVX
+PCF,High Income Securities,Fixed Income - Taxable-Convertibles,XPCFX
+MSD,Morgan Stanley Emerging Markets Debt,Fixed Income - Taxable-Emerging Market Income,XMSDX
+EDD,Morgan Stanley Emrgng Mkts Domestic Debt,Fixed Income - Taxable-Emerging Market Income,XEDDX
+EDF,Virtus Stone Harbor Emerging Markets Inc,Fixed Income - Taxable-Emerging Market Income,XEDFX
+TEI,Templeton Emerg Mkts Income,Fixed Income - Taxable-Emerging Market Income,XTEIX
+EMD,Western Asset Emerging Markets Debt,Fixed Income - Taxable-Emerging Market Income,XEMDX
+GDO,Western Asset Global Corp Opp,Fixed Income - Taxable-Global Income,XGDOX
+SABA,Saba Capital Income & Ops Fund II,Fixed Income - Taxable-Global Income,XSABX
+MMT,Aberdeen Multi-Market Income,Fixed Income - Taxable-Global Income,XMMTX
+MIN,Aberdeen Intermediate Income,Fixed Income - Taxable-Global Income,XMINX
+PDO,PIMCO Dynamic Income Opportunities Fund,Fixed Income - Taxable-Global Income,XPDOX
+PPT,Franklin Premier Income,Fixed Income - Taxable-Global Income,XPPTX
+JGH,Nuveen Global High Income Fund,Fixed Income - Taxable-Global Income,XJGHX
+DSL,DoubleLine Income Solutions Fund,Fixed Income - Taxable-Global Income,XDSLX
+FAX,abrdn Asia-Pacific Income Fund Inc,Fixed Income - Taxable-Global Income,XFAPX
+ASGI,abrdn Global Infrastructure Income Fund,Fixed Income - Taxable-Global Income,XAGIX
+BWG,BrandywineGLOBAL – Global Inc Opp Fund,Fixed Income - Taxable-Global Income,XBWGX
+RA,Brookfield Real Assets Income Fund Inc.,Fixed Income - Taxable-High Yield,XRAIX
+DHF,BNY Mellon High Yield Strategies Fund,Fixed Income - Taxable-High Yield,XDHFX
+HYT,BlackRock Corporate High Yield Fund,Fixed Income - Taxable-High Yield,XHYTX
+AWF,AllianceBernstein Global High Income,Fixed Income - Taxable-High Yield,XAWFX
+BGH,Barings Global Short Duration High Yield,Fixed Income - Taxable-High Yield,XBGHX
+CIK,UBS Asset Management Income,Fixed Income - Taxable-High Yield,XCIKX
+DHY,UBS Asset Management High Yield Credit,Fixed Income - Taxable-High Yield,XDHYX
+FTHY,FIRST TRUST HY OPPORTUNITIES 2027 Term,Fixed Income - Taxable-High Yield,XFTHYX
+JLS,Nuveen Mortgage and Income Fund,Fixed Income - Taxable-High Yield,XJLSX
+RSF,RiverNorth Capital and Inc Fund,Fixed Income - Taxable-High Yield,XRSFX
+OPP,RiverNorth/DoubleLine Strategic Opp Fund,Fixed Income - Taxable-High Yield,XOPPX
+ISD,"PGIM High Yield Bond Fund, Inc.",Fixed Income - Taxable-High Yield,XISDX
+GHY,"PGIM Global High Yield Fund, Inc.",Fixed Income - Taxable-High Yield,XGHYX
+SDHY,PGIM Short Duration High Yield Opps,Fixed Income - Taxable-High Yield,XSDHX
+KIO,KKR Income Opportunities Fund,Fixed Income - Taxable-High Yield,XKIOX
+NHS,Neuberger High Yield Strategies,Fixed Income - Taxable-High Yield,XNHSX
+VLT,Invesco High Income II,Fixed Income - Taxable-High Yield,XVLTX
+EHI,Western Asset Global High Income,Fixed Income - Taxable-High Yield,XEHIX
+HIX,Western Asset High Income II,Fixed Income - Taxable-High Yield,XHGIX
+HIO,Western Asset High Income Opportunity,Fixed Income - Taxable-High Yield,XHIOX
+EAD,Allspring Income Opps,Fixed Income - Taxable-High Yield,XEADX
+HYI,Western Asset High Yield Opp Fund,Fixed Income - Taxable-High Yield,XHYIX
+DMO,Western Asset Mortgage Opp Fund Inc.,Fixed Income - Taxable-High Yield,XDMOX
+EIC,Eagle Point Income Co Inc,Fixed Income - Taxable-High Yield,XEICX
+MPV,Barings Participation Invs,Fixed Income - Taxable-High Yield,XMPVX
+MCI,Barings Corporate Investors,Fixed Income - Taxable-High Yield,XMCIX
+BKT,BlackRock Income,Fixed Income - Taxable-Investment Grade,XBKTX
+BTZ,BlackRock Credit Allocation Income Trust,Fixed Income - Taxable-Investment Grade,XBTZX
+BHK,BlackRock Core Bond,Fixed Income - Taxable-Investment Grade,XBHKX
+FMY,First Trust Mortgage Income,Fixed Income - Taxable-Investment Grade,XFMYX
+VBF,Invesco Bond,Fixed Income - Taxable-Investment Grade,XVBFX
+JHS,JHancock Income Secs,Fixed Income - Taxable-Investment Grade,XJHSX
+JHI,JHancock Investors,Fixed Income - Taxable-Investment Grade,XJHIX
+MGF,Aberdeen Government Markets Income,Fixed Income - Taxable-Investment Grade,XMGFX
+PCN,PIMCO Corporate & Income Strgy,Fixed Income - Taxable-Investment Grade,XPCNX
+RCS,PIMCO Strategic Income Fund,Fixed Income - Taxable-Investment Grade,XRCSX
+PTY,PIMCO Corporate & Income Opportunity Fd,Fixed Income - Taxable-Investment Grade,XPTYX
+PIM,Franklin Master Intermediate Income,Fixed Income - Taxable-Investment Grade,XPIMX
+JMM,Nuveen Multi-Market Income Fund,Fixed Income - Taxable-Investment Grade,XJMMX
+NPCT,Nuveen Core Plus Impact Fund,Fixed Income - Taxable-Investment Grade,XNPCX
+WEA,Western Asset Premier Bond,Fixed Income - Taxable-Investment Grade,XWEAX
+IGI,Western Asset Invstm Grd Opp Tr Inc,Fixed Income - Taxable-Investment Grade,XIGIX
+WIA,Western Asset Inflation-Linked Income Fd,Fixed Income - Taxable-Investment Grade,XWIAX
+WIW,Western Asset Infl-Linked Opps & Inc Fd,Fixed Income - Taxable-Investment Grade,XWIWX
+PAI,Western Asset Income,Fixed Income - Taxable-Investment Grade,XPAIX
+ERC,Allspring Multi-Sec Inc,Fixed Income - Taxable-Limited Duration,XERCX
+PCM,PCM Fund,Fixed Income - Taxable-Limited Duration,XPCMX
+FTF,Franklin Limited Duration Income Trust,Fixed Income - Taxable-Limited Duration,XFTFX
+EVV,Eaton Vance Limited Duration Income,Fixed Income - Taxable-Limited Duration,XEVVX
+EVG,Eaton Vance Short Duration Divers Inc,Fixed Income - Taxable-Limited Duration,XEVGX
+BLW,BlackRock Limited Duration Income,Fixed Income - Taxable-Limited Duration,XBLWX
+BIT,BlackRock Multi-Sector Income Trust,Fixed Income - Taxable-Multi-Sector,XBITX
+FSCO,FS Credit Opportunities Corp.,Fixed Income - Taxable-Multi-Sector,XFSCX
+DBL,Doubleline Opportunistic Cred,Fixed Income - Taxable-Multi-Sector,XDBLX
+DLY,DoubleLine Yield Opportunities Fund,Fixed Income - Taxable-Multi-Sector,XDLYX
+PFL,PIMCO Income Strategy,Fixed Income - Taxable-Multi-Sector,XPFLX
+PFN,PIMCO Income Strategy II,Fixed Income - Taxable-Multi-Sector,XPFNX
+PDI,PIMCO Dynamic Income Fund,Fixed Income - Taxable-Multi-Sector,XPDIX
+PAXS,PIMCO Access Income,Fixed Income - Taxable-Multi-Sector,XPAAX
+PHK,PIMCO High Income,Fixed Income - Taxable-Multi-Sector,XPHKX
+GOF,Guggenheim Strategic Opp Fund,Fixed Income - Taxable-Multi-Sector,XGOFX
+WDI,Western Asset Diversified Inc Fund,Fixed Income - Taxable-Multi-Sector,XWDIX
+VGI,Virtus Global Multi-Sector Income Fund,Fixed Income - Taxable-Multi-Sector,XVGIX
+TSI,TCW Strategic Income,Fixed Income - Taxable-Multi-Sector,XXCVTXX
+HPI,JHancock Preferred Income,Fixed Income - Taxable-Preferreds,XHPIX
+HPF,JHancock Preferred Income II,Fixed Income - Taxable-Preferreds,XHPFX
+PDT,JHancock Premium Dividend Fund,Fixed Income - Taxable-Preferreds,XPDTX
+HPS,JHancock Preferred Income III,Fixed Income - Taxable-Preferreds,XHPSX
+NPFD,Nuveen Variable Rate Pref & Inc Fund,Fixed Income - Taxable-Preferreds,XNPFX
+JPC,Nuveen Pref & Income Opps Fund,Fixed Income - Taxable-Preferreds,XJPCX
+LDP,Cohen & Steers Ltd Duration Pref & Inc,Fixed Income - Taxable-Preferreds,XLDPX
+PTA,Cohen & Steers Tax-adv Prd Sec and Inc,Fixed Income - Taxable-Preferreds,XPTAX
+PSF,Cohen & Steers Select Preferred & Inc,Fixed Income - Taxable-Preferreds,XPSFX
+FFC,Flah&Crum Preferred Securities,Fixed Income - Taxable-Preferreds,XFFCX
+FLC,Flah&Crum Total Return Fund,Fixed Income - Taxable-Preferreds,XFLCX
+PFD,Flaherty & Crumrine Preferred Income,Fixed Income - Taxable-Preferreds,XPFDX
+PFO,Flaherty & Crumrine Preferred Income Opp,Fixed Income - Taxable-Preferreds,XPFOX
+DFP,Flah & Crum Dynamic Pref & Income Fund,Fixed Income - Taxable-Preferreds,XDFPX
+FPF,First Trust Inter Dur Pref & Income Fund,Fixed Income - Taxable-Preferreds,XFPFX
+EFR,Eaton Vance Senior Floating Rate,Fixed Income - Taxable-Senior Loans,XEFRX
+EVF,Eaton Vance Senior Income,Fixed Income - Taxable-Senior Loans,XEVFX
+EFT,Eaton Vance Floating-Rate Income,Fixed Income - Taxable-Senior Loans,XEFTX
+BGB,Blackstone Strategic Credit 2027 term,Fixed Income - Taxable-Senior Loans,XBGBX
+BGX,Blackstone Long-Short Credit Income,Fixed Income - Taxable-Senior Loans,XXBGX
+DSU,BlackRock Debt Strategies,Fixed Income - Taxable-Senior Loans,XDSUX
+FRA,BlackRock Floating Rate Inc Strategies,Fixed Income - Taxable-Senior Loans,XFRAX
+BSL,Blackstone Senior Floating Rt 2027 term,Fixed Income - Taxable-Senior Loans,XBSLX
+BGT,Blackrock Floating Rate Income,Fixed Income - Taxable-Senior Loans,XBGTX
+ARDC,Ares Dynamic Credit Allocation Fund,Fixed Income - Taxable-Senior Loans,XADCX
+ACP,abrdn Income Credit Strategies Fund,Fixed Income - Taxable-Senior Loans,XACPX
+JQC,Nuveen Credit Strategies Income Fund,Fixed Income - Taxable-Senior Loans,XJQCX
+JFR,Nuveen Floating Rate Income,Fixed Income - Taxable-Senior Loans,XJFRX
+BRW,Saba Capital Income & Opportunities Fund,Fixed Income - Taxable-Senior Loans,XPPRX
+FSSL,FS Specialty Lending Fund,Fixed Income - Taxable-Senior Loans,FSSL
+VVR,Invesco Senior Income,Fixed Income - Taxable-Senior Loans,XVVRX
+HFRO,Highland Opportunities and Income Ord,Fixed Income - Taxable-Senior Loans,XHFOX
+XFLT,XAI Octagon FR & Alternative Inc Trust,Fixed Income - Taxable-Senior Loans,XFLTX
+CCIF,Carlyle Credit Income Ord,Fixed Income - Taxable-Senior Loans,XCCIFX
+PDCC,Pearl Diver Credit Company Inc,Fixed Income - Taxable-Senior Loans,PDCC
+OCCI,OFS Credit Company Inc,Fixed Income - Taxable-Senior Loans,OCCI
+OXLC,Oxford Lane Capital Corp,Fixed Income - Taxable-Senior Loans,OXLCX
+ECC,Eagle Point Credit Company LLC,Fixed Income - Taxable-Senior Loans,XECCX
+EARN,Ellington Credit Company,Fixed Income - Taxable-Senior Loans,EARN
+BBN,BlackRock Taxable Municipal Bond Trust,Fixed Income - Taxable-Taxable Muni,XBBNX
+NBB,Nuveen Taxable Municipal Income,Fixed Income - Taxable-Taxable Muni,XNBBX
+GBAB,Guggenheim Tax Muni & Inv Grade Debt Tr,Fixed Income - Taxable-Taxable Muni,XGBAX
+VKQ,Invesco Municipal,Fixed Income - Municipal-Municipal,XVKQX
+VGM,Invesco Tr Inv Gr Muni,Fixed Income - Municipal-Municipal,XVGMX
+IIM,Invesco Value Muni Income,Fixed Income - Municipal-Municipal,XIIMX
+OIA,Invesco Municipal Inc Opp I,Fixed Income - Municipal-Municipal,XOIAX
+IQI,Invesco Quality Municipal Income Trust,Fixed Income - Municipal-Municipal,XIQIX
+VMO,Invesco Muni Opp,Fixed Income - Municipal-Municipal,XVMOX
+VKI,Invesco Adv Muni Inc II,Fixed Income - Municipal-Municipal,XVKIX
+NIM,Nuveen Select Maturity Muni,Fixed Income - Municipal-Municipal,XNIMX
+NBH,Neuberger Municipal Fund,Fixed Income - Municipal-Municipal,XNBHX
+MMD,NYLIM MacKay DefinedTerm Muni Opps Fund,Fixed Income - Municipal-Municipal,XMMDX
+MFM,Aberdeen Municipal Income,Fixed Income - Municipal-Municipal,XMFMX
+NVG,Nuveen AMT-Free Muni Credit Inc,Fixed Income - Municipal-Municipal,XNVGX
+NUV,Nuveen Municipal Value,Fixed Income - Municipal-Municipal,XNUVX
+NDMO,Nuveen Dynamic Municipal Opportunities,Fixed Income - Municipal-Municipal,XNDMX
+NZF,Nuveen Municipal Credit Income,Fixed Income - Municipal-Municipal,XNZFX
+NMZ,Nuveen Municipal High Income Opp Fd,Fixed Income - Municipal-Municipal,XNMZX
+NUW,Nuveen AMT-Free Municipal Value Fund,Fixed Income - Municipal-Municipal,XNUWX
+NXP,Nuveen Select Tax Free Inc,Fixed Income - Municipal-Municipal,XNXPX
+NMI,Nuveen Municipal Income,Fixed Income - Municipal-Municipal,XNMIX
+NEA,Nuveen AMT-Free Quality Muni Inc,Fixed Income - Municipal-Municipal,XNEAX
+NMCO,Nuveen Municipal Credit Opps Fund,Fixed Income - Municipal-Municipal,XNMCX
+NAD,Nuveen Quality Muni Income Fund,Fixed Income - Municipal-Municipal,XNADX
+PML,PIMCO Municipal Income II,Fixed Income - Municipal-Municipal,XPMLX
+RMM,RiverNorth Managed Duration Muni Inc Fd,Fixed Income - Municipal-Municipal,XRMMX
+RMMZ,RiverNorth Manage Dur Muni Inc Fd II Inc,Fixed Income - Municipal-Municipal,XRMZX
+RMI,RiverNorth Opp Muni Income Fund Inc,Fixed Income - Municipal-Municipal,XRMIX
+RFM,RiverNorth Flexible Municipal Income,Fixed Income - Municipal-Municipal,XRFMX
+RFMZ,RiverNorth Flexible Municipal Income II,Fixed Income - Municipal-Municipal,XRFZX
+PMM,Franklin Managed Municipal Income,Fixed Income - Municipal-Municipal,XPMMX
+PMO,Franklin Municipal Opportunities,Fixed Income - Municipal-Municipal,XPMOX
+MHD,BlackRock Municipal Income,Fixed Income - Municipal-Municipal,XMHDX
+MYI,BlackRock MuniYield Qty III,Fixed Income - Municipal-Municipal,XMYIX
+MQY,BlackRock Muniyield Quality,Fixed Income - Municipal-Municipal,XMQYX
+MUA,BlackRock Muniassets,Fixed Income - Municipal-Municipal,XMUAX
+LEO,BNY Mellon Strategic Municipals,Fixed Income - Municipal-Municipal,XLEOX
+AFB,AllianceBernstein National Mun Inc,Fixed Income - Municipal-Municipal,XAFBX
+BTT,BlackRock Municipal 2030 Target Term,Fixed Income - Municipal-Municipal,XBTTX
+DSM,BNY Mellon Strategic Muni Bond,Fixed Income - Municipal-Municipal,XDSMX
+DMB,BNY Mellon Muni Bond Infrastructure Fund,Fixed Income - Municipal-Municipal,XDMBX
+BMN,BlackRock 2037 Municipal Target term,Fixed Income - Municipal-Municipal,XBMNX
+FMN,Federated Premier Municipal Income,Fixed Income - Municipal-Municipal,XFMNX
+EIM,Eaton Vance Municipal Bond,Fixed Income - Municipal-Municipal,XEIMX
+EVN,Eaton Vance Municipal Income,Fixed Income - Municipal-Municipal,XEVNX
+EOT,Eaton Vance National Municipal Opprs Tr,Fixed Income - Municipal-Municipal,XEOTX
+ETX,EV Municipal Income 2028 Term Trust,Fixed Income - Municipal-Municipal,XETTX
+DTF,DTF Tax-Free Income 2028 Term,Fixed Income - Municipal-Municipal,XDTFX
+KTF,DWS Municipal Income,Fixed Income - Municipal-Municipal,XKTFX
+SBI,Western Asset Intermediate Muni,Fixed Income - Municipal-Municipal,XSBIX
+MMU,Western Asset Managed Municipals,Fixed Income - Municipal-Municipal,XMMUX
+MHF,Western Asset Municipal High Income,Fixed Income - Municipal-Municipal,XMHFX
+CEV,Eaton Vance CA Muni Inc,Fixed Income - Municipal-Municipal - CA,XCEVX
+MUC,BlackRock MuniHoldings CA Qty,Fixed Income - Municipal-Municipal - CA,XMUCX
+PCQ,PIMCO CA Municipal Income,Fixed Income - Municipal-Municipal - CA,XPCQX
+NKX,Nuveen CA AMT - Free Quality Muni Inc,Fixed Income - Municipal-Municipal - CA,XNCMX
+NCA,Nuveen CA Municipal Value,Fixed Income - Municipal-Municipal - CA,XNCAX
+NAC,Nuveen CA Quality Muni Income,Fixed Income - Municipal-Municipal - CA,XNACX
+VCV,Invesco CA Value,Fixed Income - Municipal-Municipal - CA,XVCVX
+VTN,Invesco Tr Inv Gr NY,Fixed Income - Municipal-Municipal - NY,XVTNX
+NRK,Nuveen NY AMT - Free Quality Muni Inc,Fixed Income - Municipal-Municipal - NY,XNRKX
+NAN,Nuveen NY Quality Muni Inc,Fixed Income - Municipal-Municipal - NY,XNANX
+NNY,Nuveen NY Municipal Value,Fixed Income - Municipal-Municipal - NY,XNNYX
+PNI,PIMCO NY Municipal Income II,Fixed Income - Municipal-Municipal - NY,XPNIX
+MYN,BlackRock MuniYield NY Quality,Fixed Income - Municipal-Municipal - NY,XMYNX
+MPA,BlackRock MuniYield PA Quality,Fixed Income - Municipal-Municipal - Single-State,XMPAX
+MIY,BlackRock MuniYield MI Quality,Fixed Income - Municipal-Municipal - Single-State,XMIYX
+MUJ,BlackRock MuniHoldings NJ Qty,Fixed Income - Municipal-Municipal - Single-State,XMUJX
+BHV,BlackRock VA Municipal Bond,Fixed Income - Municipal-Municipal - Single-State,XBHVX
+NPV,Nuveen VA Quality Muni Inc,Fixed Income - Municipal-Municipal - Single-State,XNPVX
+NMS,Nuveen MN Quality Muni Inc,Fixed Income - Municipal-Municipal - Single-State,XMNSX
+VPV,Invesco PA Value,Fixed Income - Municipal-Municipal - Single-State,XVPVX
+NAZ,Nuveen AZ Quality Muni Inc,Fixed Income - Municipal-Municipal - Single-State,XNAZX
+NMT,Nuveen MA Quality Muni Inc,Fixed Income - Municipal-Municipal - Single-State,XNMTX
+SCD,LMP Capital and Income,Hybrid-Global Allocation,XSCDX
+HGLB,Highland Global Allocation Fund,Hybrid-Global Allocation,XHGLX
+GUG,Guggenheim Active Allocation Fund,Hybrid-Global Allocation,XGUGX
+JRI,Nuveen Real Asset Inc and Grwt,Hybrid-Global Allocation,XJRIX
+NMAI,Nuveen Multi-Asset Income,Hybrid-Global Allocation,XNMAX
+PGP,PIMCO Global StocksPLUS & Income,Hybrid-Global Allocation,XPGPX
+PDX,PIMCO Dynamic Income Strategy Fund,Hybrid-Global Allocation,XPDX
+ECAT,BlackRock ESG Capital Allocation Term,Hybrid-Global Allocation,ECAT
+CGO,Calamos Global Total Return,Hybrid-Global Allocation,XCGOX
+CHW,Calamos Global Dynamic Income Fund,Hybrid-Global Allocation,XCHWX
+GLV,Clough Global Dividend and Income,Hybrid-Global Allocation,XGLVX
+GLO,Clough Global Opportunities,Hybrid-Global Allocation,XGLOX
+ETO,Eaton Vance Tax-Advantaged Glbl Div Opp,Hybrid-Global Allocation,XETOX
+TBLD,Thornburg Income Builder Opp Trust,Hybrid-Global Allocation,XTBLX
+ZTR,Virtus Total Return Fund Inc,Hybrid-Global Allocation,XZTRX
+TY,Tri-Continental,Hybrid-U.S. Allocation,XTYCX
+ACV,Virtus Diversified Inc & Conv Fund,Hybrid-U.S. Allocation,XACVX
+NIE,Virtus Equity & Convertible Inc Fund,Hybrid-U.S. Allocation,XNIEX
+ERH,Allspring Util & High In,Hybrid-U.S. Allocation,XERHX
+GDL,GDL Fund,Hybrid-U.S. Allocation,XGDLX
+FT,Franklin Universal Trust,Hybrid-U.S. Allocation,XFUTX
+CSQ,Calamos Strategic Total Return,Hybrid-U.S. Allocation,XCSQX
+FOF,Cohen & Steers Closed-End Opportunity,Hybrid-U.S. Allocation,XFOFX
+DMA,Destra Multi-Alternative,Hybrid-U.S. Allocation,XDMAX
+BXSY,Bexil Investment Trust,Hybrid-U.S. Allocation,XBXIX
+BCAT,BlackRock Capital Allocation Term Trust,Hybrid-U.S. Allocation,XCATX
+FINS,Angel Oak Financial Strats Income Term,Hybrid-U.S. Allocation,XFINX
+RCG,RENN Fund ord,Hybrid-U.S. Allocation,XXRENNX
+RIV,RiverNorth Opportunities Fund,Hybrid-U.S. Allocation,XRIVX
+SOR,Source Capital,Hybrid-U.S. Allocation,XSORX
+HTD,JHancock Tax-Advantaged Dividend Inc,Hybrid-U.S. Allocation,XHTDX
+GCV,Gabelli Conv Inc Secs,Hybrid-U.S. Allocation,XGCVX

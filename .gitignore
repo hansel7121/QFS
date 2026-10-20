@@ -24,3 +24,31 @@ Taiwan Pitch/data/stock_futures.csv
 
 # MOPS raw scrape caches (regenerable via collect_mops_*.py)
 Taiwan Pitch/data/mops_*_cache/
+
+# TAIFEX daily download cache and the stock-futures panel built from it (regenerable via collect_taifex_futures.py)
+Taiwan Pitch/data/taifex_cache/
+Taiwan Pitch/data/taifex_stock_futures.csv
+
+# BDC Pitch raw SEC caches (regenerable via collect_sec_bdc.py)
+BDC Pitch/data/sec_cache/
+BDC Pitch/data/positions_parts/
+
+# LETF Pitch raw SEC N-PORT cache (regenerable via collect_nport.py)
+LETF Pitch/data/nport_cache/
+Funding Pitch/data/zips/
+Funding Pitch/data/klines_*.csv
+Overnight Pitch/data/panel.csv
+Liquidation Pitch/data/zips/
+RegSHO Pitch/data/raw/
+FundFlow Pitch/data/tmp/
+FundFlow Pitch/data/prices.csv
+RussellStock Pitch/data/tmp/
+
+# Raw panels exceeding GitHub 100 MB limit (regenerable via each pitch's collect_*.py)
+CEF Pitch/data/prices.csv
+Hype Pitch/data/wiki_redirects.csv
+Index Pitch/data/prices.csv
+Insider Pitch/data/insider_trades.csv
+Lockup Pitch/data/prices.csv
+Recall Pitch/data/short_interest.csv
+Taiwan Pitch/data/sbl.csv

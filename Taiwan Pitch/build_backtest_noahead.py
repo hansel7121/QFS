@@ -24,7 +24,7 @@ times come from `data/mops_agm.csv` (`collect_mops_agm.py`: the board's "召開�
 book-closure date implies the same D). An AGM event is traded only if that posting was found and was public by the
 entry close. AGM events not looked up or not matched are dropped, never assumed known.
 
-**Same trade as the purple line in `backtest_hedged.ipynb`:** Q5 = days-to-cover on D−17 ≥ 0.167, 20-day turnover ≥
+**Same trade as the purple line in `backtest_hedged.ipynb`:** Q5 = days-to-cover on D−17 ≥ the expanding 80th percentile (below), 20-day turnover ≥
 NT$20m, buy at the close of **D−6**, flip to short at the close of D, cover at the close of **D+5**, beta-hedged with
 TAIEX futures (Dimson beta on the 250 days ending D−17, Blume-shrunk), 20bp per leg + β×2bp hedge, fixed notional per
 trade.
@@ -37,7 +37,8 @@ trade.
 | D = ex-date − 4 trading days | Yes: the exchange holiday calendar is published a year ahead (typhoon closures are the exception) |
 | Days-to-cover and turnover on D−17 | Yes: published the evening of D−17 |
 | Beta (250 days ending D−17) | Yes |
-| Threshold 0.167, D−6, 5 days | Fixed on 2018–2023 data, which **includes AGM events**; fair for the out-of-sample period only |
+| Q5 cutoff | **Now yes:** 80th percentile of days-to-cover over past deadline events only (expanding window) |
+| D−6 entry, 5-day short | Chosen on 2018–2023 data, which **includes AGM events**; fair for the out-of-sample period only |
 
 **Not fixed here.** Stock returns still stand in for single-stock futures. MOPS may overwrite a posting date when a
 company files a correction. That would make an event look announced *later* than it was, which drops trades
@@ -58,7 +59,7 @@ import numpy as np, pandas as pd, matplotlib.pyplot as plt
 plt.rcParams.update({"figure.dpi": 110, "axes.grid": True, "grid.alpha": 0.3, "axes.spines.top": False, "axes.spines.right": False})
 DATA = Path("data")
 K, H = 6, 5                  # purple line from backtest_hedged.ipynb: long from the close of D-6 to D, short from the close of D to D+5
-THR = 0.167                  # frozen: in-sample 80th pct of days-to-cover on D-17 (insample.ipynb)
+Q5_PCT, Q5_MIN_HIST = 0.80, 200   # Q5 cutoff: expanding 80th pct of days-to-cover over past events; burn-in of 200 events
 SIG_LAG, MIN_VAL20, COST_LEG_BPS = 17, 2e7, 20
 K_LABEL, H_LABEL = 12, 20    # in/out-of-sample split exactly as backtest_hedged.ipynb
 BETA_WIN, BETA_MIN, DIMSON_LAGS = 250, 60, 2
@@ -143,8 +144,15 @@ print("(no match usually means the stock had no margin shorts to suspend, which 
 
 md(r"""
 ## 3. Signal, the announcement filter, and three event sets
-**What this does.** Applies the frozen Q5 threshold and liquidity filter on D−17, then compares three sets on the
-same trade:
+**What this does.** Applies the Q5 cutoff and liquidity filter on D−17, then compares four sets on the same trade.
+
+**Q5 cutoff, expanding window.** For each event, the cutoff is the 80th percentile of days-to-cover over every
+earlier deadline event in `suspension.csv` (all reasons, stocks with margin shorts) whose deadline had already passed
+by the event's signal date D−17. Only data public by D−17 is used. Events with fewer than 200 such past events
+(the first weeks of 2018) are skipped. This replaces the fixed 0.167, which was the 80th percentile over the whole
+in-sample period and so used later data for earlier in-sample events.
+
+The sets:
 
 * **A: `suspension.csv`, all reasons**, the purple line from `backtest_hedged.ipynb` (assumes every deadline,
   AGMs included, was known at D−6).
@@ -158,6 +166,21 @@ The B → C gap is the cost of the timing filter. The A → B gap comes mostly f
 """)
 
 code(r"""
+# pool for the Q5 cutoff: every suspension.csv deadline event (one per stock per 10 days) with margin shorts on D-17
+pool = sus[sus.stock_id.isin(stocks) & (sus.D >= SIG_LAG) & (sus.D < T)].sort_values(["stock_id", "D"])
+pool = pool[pool.groupby("stock_id").D.diff().fillna(99) >= 10]
+pj, ps = pool.stock_id.map(col).values, pool.D.values - SIG_LAG
+pool = pd.DataFrame({"D": pool.D.values, "dtc": SB.values[ps, pj] / ADV.values[ps, pj], "sb": SB.values[ps, pj]})
+pool = pool[(pool.sb > 0) & np.isfinite(pool.dtc)].sort_values("D")
+POOL_D, POOL_X = pool.D.values, pool.dtc.values
+
+def q5_cutoff(s):
+    # 80th pct of days-to-cover over events whose deadline D passed before signal day s
+    n = np.searchsorted(POOL_D, s, side="left")
+    return np.quantile(POOL_X[:n], Q5_PCT) if n >= Q5_MIN_HIST else np.nan
+
+THR_BY_S = {s: q5_cutoff(s) for s in range(T)}
+
 def signal(df):
     df = df[(df.D >= SIG_LAG + 1) & (df.D + H + 1 < T)].copy()
     df["j"] = df.stock_id.map(col)
@@ -165,9 +188,15 @@ def signal(df):
     df["sb"] = SB.values[s_, df.j.values]
     df["dtc"] = df.sb / ADV.values[s_, df.j.values]
     df["val20"] = VAL20.values[s_, df.j.values]
+    df["thr"] = [THR_BY_S[s] for s in s_]
     df["Ddate"] = cal[df.D.values]
     df["period"] = np.select([df.D + H_LABEL < CUT, df.D - K_LABEL >= CUT], ["in-sample", "out-of-sample"], "boundary")
-    return df[(df.sb > 0) & (df.dtc >= THR) & (df.val20 >= MIN_VAL20) & (df.period != "boundary")].reset_index(drop=True)
+    return df[(df.sb > 0) & (df.dtc >= df.thr) & (df.val20 >= MIN_VAL20) & (df.period != "boundary")].reset_index(drop=True)
+
+thr_s = pd.Series(THR_BY_S).dropna()
+thr_s.index = cal[thr_s.index]
+print(f"Q5 cutoff (expanding): first available {thr_s.index[0].date()}; at the in-sample end {THR_BY_S[CUT - 1]:.3f}; "
+      f"latest {thr_s.iloc[-1]:.3f}; range {thr_s.min():.3f}–{thr_s.max():.3f}, stdev {thr_s.std():.3f}")
 
 # A: suspension.csv, every reason, as in backtest_hedged.ipynb
 sa = sus[sus.stock_id.isin(stocks)].copy()
@@ -339,23 +368,26 @@ print(pd.DataFrame(yr).set_index("year").round(2).to_string())
 """)
 
 md(r"""
-**Interpretation.** *(AGM lookup complete: all 742 AGM events looked up, 708 postings found.)*
+**Interpretation.** *(Expanding-window Q5 cutoff; AGM lookup complete: 590 AGM events in A, 568 postings found.)*
 - **Ex-div deadlines are announced late.** The median ex-div posting comes just **1 trading day** before the D−6 entry,
-  and **15% (76 of 511) come after it**. Those trades were impossible. A D−12 entry would lose most ex-div events.
-- **Dropping them barely changes the ex-div result** (B → C): Sharpe 0.89 → 0.96 in-sample, 1.32 → 1.14 out-of-sample,
-  +231bp per trade out-of-sample on 70 trades (t = 1.4). The look-ahead was real, but it was not what made the
+  and **15% (72 of 467) come after it**. Those trades were impossible. A D−12 entry would lose most ex-div events.
+- **Dropping them barely changes the ex-div result** (B → C): Sharpe 0.92 → 0.92 in-sample, 1.47 → 1.26 out-of-sample,
+  +233bp per trade out-of-sample on 84 trades (t = 1.5). The look-ahead was real, but it was not what made the
   strategy look good.
-- **AGM deadlines are announced early.** Of the 708 AGM postings found, 704 were public by the D−6 close (median
+- **AGM deadlines are announced early.** Of the 568 AGM postings found, 567 were public by the D−6 close (median
   lead 14 trading days). The AGM events are almost all tradable; until now they were missing only because the posting
   data didn't exist.
 - **The gap between A and C is mostly sample, not look-ahead.** Ex-div-only events earn about 105bp per trade in-sample,
-  compared with 147bp for all events. The AGM events are the stronger half of the strategy.
-- **Set D, the headline, nearly recovers A.** Sharpe 2.07 in-sample (A 2.01) and 1.53 out-of-sample (A 1.62), on 943 /
-  196 trades (A 1059 / 208), +157bp / +206bp per trade. Removing the look-ahead on the event costs little once the AGM
-  postings are in.
-- **Hedged vs unhedged on C:** hedging lowers out-of-sample Sharpe (1.84 → 1.14). 2024 was a strong up year, so the
-  hedge cost money, while in-sample it was roughly a wash (1.18 → 0.96). It still takes out the market risk:
-  correlation with TAIEX is about 0.
+  compared with 141bp for all events. The AGM events are the stronger half of the strategy.
+- **Set D, the headline, stays close to A.** Sharpe 1.70 in-sample (A 1.79) and 1.44 out-of-sample (A 1.59), on 738 /
+  224 trades (A 830 / 238), +138bp / +182bp per trade (t = 3.1 / 1.6). Removing the look-ahead on the event costs
+  little once the AGM postings are in.
+- **The expanding cutoff costs in-sample, not out-of-sample.** With the old fixed 0.167 (the 80th percentile over the
+  whole in-sample period), set D had Sharpe 2.07 in-sample on 943 trades. The cutoff known at the time was 0.19–0.22
+  in 2018–2020, so about 200 in-sample trades drop out. Out-of-sample the cutoff drifts down to 0.13–0.167, which adds
+  trades there.
+- **Hedged vs unhedged on C:** hedging lowers out-of-sample Sharpe (1.70 → 1.26) and in-sample Sharpe (1.16 → 0.92),
+  but takes out the market risk: correlation with TAIEX is about 0.
 """)
 
 nb = nbf.v4.new_notebook()

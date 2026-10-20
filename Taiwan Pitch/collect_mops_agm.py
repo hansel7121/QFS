@@ -5,7 +5,7 @@ suspension.csv gives the forced-covering deadline D of every AGM ban but not whe
 date, and with it the book closure (59 days before the meeting) and D (6 trading days before the closure),
 is public from the moment the company posts its "董事會決議召開股東常會" material information on MOPS.
 
-For every AGM event in the backtest's trade list (days-to-cover on D-17 >= THR, 20-day turnover >= NT$20m,
+For every AGM event in the backtest's trade list (days-to-cover on D-17 >= THR or the expanding cutoff, turnover >= NT$20m,
 same construction as build_backtest.py) this pulls the company's material-information list for that ROC year
 (one request), opens every own announcement about the AGM (one request each), and keeps the earliest
 one whose book-closure date implies the same D (within one trading day). Announcements posted on behalf of a
@@ -41,7 +41,8 @@ CACHE = os.path.join(DATA, "mops_agm_cache")
 OUT = os.path.join(DATA, "mops_agm.csv")
 URL = "https://mopsov.twse.com.tw/mops/web/ajax_t05st01"
 
-SIG_LAG, THR, MIN_VAL20 = 17, 0.167, 2e7      # frozen backtest rule (build_backtest.py)
+SIG_LAG, THR, MIN_VAL20 = 17, 0.167, 2e7      # old fixed Q5 cutoff (build_backtest.py)
+Q5_PCT, Q5_MIN_HIST = 0.80, 200               # expanding Q5 cutoff, as in build_backtest_noahead.py
 CLOSE_CUTOFF = "132500"                        # posts after the closing auction opens count from the next day
 
 
@@ -155,7 +156,14 @@ def load_events(all_events):
     s_ = ev.D.values - SIG_LAG
     sb = SB.values[s_, ev.j.values]
     dtc = sb / ADV.values[s_, ev.j.values]
-    keep = (sb > 0) & (dtc >= THR) & (VAL20.values[s_, ev.j.values] >= MIN_VAL20) & ev.reason.str.contains("股東常會").values
+    # expanding cutoff: 80th pct of days-to-cover over events (all reasons) whose D passed before the signal day
+    pool = (sb > 0) & np.isfinite(dtc)
+    order = np.argsort(ev.D.values[pool], kind="stable")
+    pool_D, pool_x = ev.D.values[pool][order], dtc[pool][order]
+    n = np.searchsorted(pool_D, s_, side="left")
+    thr_exp = np.array([np.quantile(pool_x[:k], Q5_PCT) if k >= Q5_MIN_HIST else np.inf for k in n])
+    # look up everything either the fixed or the expanding cutoff would trade
+    keep = (sb > 0) & (dtc >= np.minimum(THR, thr_exp)) & (VAL20.values[s_, ev.j.values] >= MIN_VAL20) & ev.reason.str.contains("股東常會").values
     return ev[keep][["stock_id", "D"]].reset_index(drop=True), cal
 
 

@@ -1,0 +1,167 @@
+{
+ "fresh_days": 15,
+ "table": [
+  {
+   "grouping": "all",
+   "group": "all BDCs",
+   "H": 5,
+   "slope": -0.006515353053841366,
+   "t": -1.9157376625847722,
+   "weeks": 359,
+   "avg_names": NaN
+  },
+  {
+   "grouping": "NAV age",
+   "group": "fresh (\u226415d since NAV)",
+   "H": 5,
+   "slope": -0.006419015555377055,
+   "t": -0.6708669597808773,
+   "weeks": 164,
+   "avg_names": 6.749303621169917
+  },
+  {
+   "grouping": "NAV age",
+   "group": "stale (>15d)",
+   "H": 5,
+   "slope": -0.006306436936637501,
+   "t": -0.931770455676679,
+   "weeks": 345,
+   "avg_names": 19.484679665738163
+  },
+  {
+   "grouping": "discount level",
+   "group": "premium (price \u2265 NAV)",
+   "H": 5,
+   "slope": -0.014826758810260118,
+   "t": -2.5031394064015102,
+   "weeks": 359,
+   "avg_names": 10.869080779944289
+  },
+  {
+   "grouping": "discount level",
+   "group": "middle (\u221215% to 0)",
+   "H": 5,
+   "slope": 0.005089172723455788,
+   "t": 0.7636493369816018,
+   "weeks": 347,
+   "avg_names": 8.94150417827298
+  },
+  {
+   "grouping": "discount level",
+   "group": "deep discount (\u2264 \u221215%)",
+   "H": 5,
+   "slope": -0.00345733953518062,
+   "t": -0.28448308727335564,
+   "weeks": 261,
+   "avg_names": 6.423398328690808
+  },
+  {
+   "grouping": "all",
+   "group": "all BDCs",
+   "H": 20,
+   "slope": -0.007832905160549589,
+   "t": -1.3677211302933023,
+   "weeks": 356,
+   "avg_names": NaN
+  },
+  {
+   "grouping": "NAV age",
+   "group": "fresh (\u226415d since NAV)",
+   "H": 20,
+   "slope": -0.011749278522171747,
+   "t": -1.1089974166426555,
+   "weeks": 162,
+   "avg_names": 6.783707865168539
+  },
+  {
+   "grouping": "NAV age",
+   "group": "stale (>15d)",
+   "H": 20,
+   "slope": -0.003719190523917826,
+   "t": -0.2772387798633759,
+   "weeks": 342,
+   "avg_names": 19.418539325842698
+  },
+  {
+   "grouping": "discount level",
+   "group": "premium (price \u2265 NAV)",
+   "H": 20,
+   "slope": -0.009703269152074737,
+   "t": -1.1866291031265508,
+   "weeks": 356,
+   "avg_names": 10.837078651685394
+  },
+  {
+   "grouping": "discount level",
+   "group": "middle (\u221215% to 0)",
+   "H": 20,
+   "slope": -0.0015456643313955197,
+   "t": -0.18221691441441426,
+   "weeks": 344,
+   "avg_names": 8.941011235955056
+  },
+  {
+   "grouping": "discount level",
+   "group": "deep discount (\u2264 \u221215%)",
+   "H": 20,
+   "slope": 0.015219383026026672,
+   "t": 0.5708140399955784,
+   "weeks": 258,
+   "avg_names": 6.424157303370786
+  },
+  {
+   "grouping": "all",
+   "group": "all BDCs",
+   "H": 60,
+   "slope": -0.010007332879564101,
+   "t": -1.1524267990930799,
+   "weeks": 348,
+   "avg_names": NaN
+  },
+  {
+   "grouping": "NAV age",
+   "group": "fresh (\u226415d since NAV)",
+   "H": 60,
+   "slope": -0.026211738910184166,
+   "t": -2.4407465236083836,
+   "weeks": 157,
+   "avg_names": 6.681034482758621
+  },
+  {
+   "grouping": "NAV age",
+   "group": "stale (>15d)",
+   "H": 60,
+   "slope": -0.010719360999936398,
+   "t": -0.6080743720098832,
+   "weeks": 334,
+   "avg_names": 19.433908045977013
+  },
+  {
+   "grouping": "discount level",
+   "group": "premium (price \u2265 NAV)",
+   "H": 60,
+   "slope": -0.006558911188251327,
+   "t": -0.49577754928474443,
+   "weeks": 348,
+   "avg_names": 10.770114942528735
+  },
+  {
+   "grouping": "discount level",
+   "group": "middle (\u221215% to 0)",
+   "H": 60,
+   "slope": 0.004520897910709353,
+   "t": 0.3285566691804207,
+   "weeks": 336,
+   "avg_names": 8.931034482758621
+  },
+  {
+   "grouping": "discount level",
+   "group": "deep discount (\u2264 \u221215%)",
+   "H": 60,
+   "slope": 0.03353098833084363,
+   "t": 0.8293332881948031,
+   "weeks": 250,
+   "avg_names": 6.413793103448276
+  }
+ ]
+}
